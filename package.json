@@ -11,6 +11,11 @@
 		"dist"
 	],
 	"exports": {
+		".": {
+			"types": "./dist/index.d.ts",
+			"import": "./dist/index.js",
+			"require": "./dist/index.js"
+		},
 		"./VsxIcon": "./dist/components/VsxIcon.vue.js",
 		"./Aave": "./dist/components/icons/Aave.vue.js",
 		"./Activity": "./dist/components/icons/Activity.vue.js",
@@ -151,8 +156,13 @@
 		"./Brush2": "./dist/components/icons/Brush2.vue.js",
 		"./Brush3": "./dist/components/icons/Brush3.vue.js",
 		"./BrushBig": "./dist/components/icons/BrushBig.vue.js",
-		"./BrushSquare": "./dist/components/icons/BrushSquare.vue.js"
+		"./BrushSquare": "./dist/components/icons/BrushSquare.vue.js",
+		"./Login": "./dist/components/icons/Login.vue.js",
+		"./LoginCurve": "./dist/components/icons/LoginCurve.vue.js",
+		"./Logout": "./dist/components/icons/Logout.vue.js",
+		"./LogoutCurve": "./dist/components/icons/LogoutCurve.vue.js"
 	},
+	"types": "./dist/index.d.ts",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/JaxThePrime/vue-iconsax"

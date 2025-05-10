@@ -1,1995 +1,998 @@
 // Auto-generated file - do not edit directly
 
-import VsxIcon from './components/VsxIcon.vue';
+export { default as VsxIcon } from './components/VsxIcon.vue';
 
 // Icon components
-import Aave from './components/icons/Aave.vue';
-import Activity from './components/icons/Activity.vue';
-import Add from './components/icons/Add.vue';
-import AddCircle from './components/icons/AddCircle.vue';
-import Additem from './components/icons/Additem.vue';
-import AddSquare from './components/icons/AddSquare.vue';
-import Airdrop from './components/icons/Airdrop.vue';
-import Airplane from './components/icons/Airplane.vue';
-import AirplaneSquare from './components/icons/AirplaneSquare.vue';
-import Airpod from './components/icons/Airpod.vue';
-import Airpods from './components/icons/Airpods.vue';
-import Alarm from './components/icons/Alarm.vue';
-import AlignBottom from './components/icons/AlignBottom.vue';
-import AlignHorizontally from './components/icons/AlignHorizontally.vue';
-import AlignLeft from './components/icons/AlignLeft.vue';
-import AlignRight from './components/icons/AlignRight.vue';
-import AlignTop from './components/icons/AlignTop.vue';
-import AlignVertically from './components/icons/AlignVertically.vue';
-import Android from './components/icons/Android.vue';
-import Ankr from './components/icons/Ankr.vue';
-import Apple from './components/icons/Apple.vue';
-import Aquarius from './components/icons/Aquarius.vue';
-import Archive from './components/icons/Archive.vue';
-import ArchiveAdd from './components/icons/ArchiveAdd.vue';
-import ArchiveBook from './components/icons/ArchiveBook.vue';
-import ArchiveBox from './components/icons/ArchiveBox.vue';
-import ArchiveMinus from './components/icons/ArchiveMinus.vue';
-import ArchiveSlash from './components/icons/ArchiveSlash.vue';
-import ArchiveTick from './components/icons/ArchiveTick.vue';
-import ArrangeHorizontal from './components/icons/ArrangeHorizontal.vue';
-import ArrangeHorizontalCircle from './components/icons/ArrangeHorizontalCircle.vue';
-import ArrangeHorizontalSquare from './components/icons/ArrangeHorizontalSquare.vue';
-import ArrangeVertical from './components/icons/ArrangeVertical.vue';
-import ArrangeVerticalCircle from './components/icons/ArrangeVerticalCircle.vue';
-import ArrangeVerticalSquare from './components/icons/ArrangeVerticalSquare.vue';
-import Arrow from './components/icons/Arrow.vue';
-import ArrowCircleDown from './components/icons/ArrowCircleDown.vue';
-import ArrowCircleDown2 from './components/icons/ArrowCircleDown2.vue';
-import ArrowCircleLeft from './components/icons/ArrowCircleLeft.vue';
-import ArrowCircleLeft2 from './components/icons/ArrowCircleLeft2.vue';
-import ArrowCircleRight from './components/icons/ArrowCircleRight.vue';
-import ArrowCircleRight2 from './components/icons/ArrowCircleRight2.vue';
-import ArrowCircleUp from './components/icons/ArrowCircleUp.vue';
-import ArrowCircleUp2 from './components/icons/ArrowCircleUp2.vue';
-import ArrowDown from './components/icons/ArrowDown.vue';
-import ArrowDown2 from './components/icons/ArrowDown2.vue';
-import ArrowDown3 from './components/icons/ArrowDown3.vue';
-import ArrowForward from './components/icons/ArrowForward.vue';
-import ArrowForwardSquare from './components/icons/ArrowForwardSquare.vue';
-import ArrowLeft from './components/icons/ArrowLeft.vue';
-import ArrowLeft2 from './components/icons/ArrowLeft2.vue';
-import ArrowLeft3 from './components/icons/ArrowLeft3.vue';
-import ArrowRight from './components/icons/ArrowRight.vue';
-import ArrowRight2 from './components/icons/ArrowRight2.vue';
-import ArrowRight3 from './components/icons/ArrowRight3.vue';
-import ArrowRotateLeft from './components/icons/ArrowRotateLeft.vue';
-import ArrowRotateRight from './components/icons/ArrowRotateRight.vue';
-import ArrowSquare from './components/icons/ArrowSquare.vue';
-import ArrowSquareDown from './components/icons/ArrowSquareDown.vue';
-import ArrowSquareLeft from './components/icons/ArrowSquareLeft.vue';
-import ArrowSquareRight from './components/icons/ArrowSquareRight.vue';
-import ArrowSquareUp from './components/icons/ArrowSquareUp.vue';
-import ArrowSwapHorizontal from './components/icons/ArrowSwapHorizontal.vue';
-import ArrowSwapVertical from './components/icons/ArrowSwapVertical.vue';
-import ArrowUp from './components/icons/ArrowUp.vue';
-import ArrowUp2 from './components/icons/ArrowUp2.vue';
-import ArrowUp3 from './components/icons/ArrowUp3.vue';
-import AttachCircle from './components/icons/AttachCircle.vue';
-import AttachSquare from './components/icons/AttachSquare.vue';
-import AudioSquare from './components/icons/AudioSquare.vue';
-import Augur from './components/icons/Augur.vue';
-import Autobrightness from './components/icons/Autobrightness.vue';
-import Autonio from './components/icons/Autonio.vue';
-import Avalanche from './components/icons/Avalanche.vue';
-import Award from './components/icons/Award.vue';
-import Back from './components/icons/Back.vue';
-import BackSquare from './components/icons/BackSquare.vue';
-import Backward from './components/icons/Backward.vue';
-import Backward10Seconds from './components/icons/Backward10Seconds.vue';
-import Backward15Seconds from './components/icons/Backward15Seconds.vue';
-import Backward5Seconds from './components/icons/Backward5Seconds.vue';
-import BackwardItem from './components/icons/BackwardItem.vue';
-import Bag from './components/icons/Bag.vue';
-import Bag2 from './components/icons/Bag2.vue';
-import BagCross from './components/icons/BagCross.vue';
-import BagCross1 from './components/icons/BagCross1.vue';
-import BagHappy from './components/icons/BagHappy.vue';
-import BagTick from './components/icons/BagTick.vue';
-import BagTick2 from './components/icons/BagTick2.vue';
-import BagTimer from './components/icons/BagTimer.vue';
-import Bank from './components/icons/Bank.vue';
-import Barcode from './components/icons/Barcode.vue';
-import BatteryCharging from './components/icons/BatteryCharging.vue';
-import BatteryDisable from './components/icons/BatteryDisable.vue';
-import BatteryEmpty from './components/icons/BatteryEmpty.vue';
-import BatteryEmpty1 from './components/icons/BatteryEmpty1.vue';
-import BatteryFull from './components/icons/BatteryFull.vue';
-import Be from './components/icons/Be.vue';
-import Bezier from './components/icons/Bezier.vue';
-import Bill from './components/icons/Bill.vue';
-import BinanceCoin from './components/icons/BinanceCoin.vue';
-import BinanceUsd from './components/icons/BinanceUsd.vue';
-import Bitcoin from './components/icons/Bitcoin.vue';
-import BitcoinCard from './components/icons/BitcoinCard.vue';
-import BitcoinConvert from './components/icons/BitcoinConvert.vue';
-import BitcoinRefresh from './components/icons/BitcoinRefresh.vue';
-import Blend from './components/icons/Blend.vue';
-import Blend2 from './components/icons/Blend2.vue';
-import Blogger from './components/icons/Blogger.vue';
-import Bluetooth from './components/icons/Bluetooth.vue';
-import Bluetooth2 from './components/icons/Bluetooth2.vue';
-import BluetoothCircle from './components/icons/BluetoothCircle.vue';
-import BluetoothRectangle from './components/icons/BluetoothRectangle.vue';
-import Blur from './components/icons/Blur.vue';
-import Book from './components/icons/Book.vue';
-import Book1 from './components/icons/Book1.vue';
-import Bookmark from './components/icons/Bookmark.vue';
-import Bookmark2 from './components/icons/Bookmark2.vue';
-import BookSaved from './components/icons/BookSaved.vue';
-import BookSquare from './components/icons/BookSquare.vue';
-import Bootstrap from './components/icons/Bootstrap.vue';
-import Box from './components/icons/Box.vue';
-import Box1 from './components/icons/Box1.vue';
-import Box2 from './components/icons/Box2.vue';
-import BoxAdd from './components/icons/BoxAdd.vue';
-import BoxRemove from './components/icons/BoxRemove.vue';
-import BoxSearch from './components/icons/BoxSearch.vue';
-import BoxTick from './components/icons/BoxTick.vue';
-import BoxTime from './components/icons/BoxTime.vue';
-import Briefcase from './components/icons/Briefcase.vue';
-import BrifecaseCross from './components/icons/BrifecaseCross.vue';
-import BrifecaseTick from './components/icons/BrifecaseTick.vue';
-import BrifecaseTimer from './components/icons/BrifecaseTimer.vue';
-import Brodcast from './components/icons/Brodcast.vue';
-import Broom from './components/icons/Broom.vue';
-import Brush from './components/icons/Brush.vue';
-import Brush2 from './components/icons/Brush2.vue';
-import Brush3 from './components/icons/Brush3.vue';
-import BrushBig from './components/icons/BrushBig.vue';
-import BrushSquare from './components/icons/BrushSquare.vue';
-import Bubble from './components/icons/Bubble.vue';
-import Bucket from './components/icons/Bucket.vue';
-import BucketCircle from './components/icons/BucketCircle.vue';
-import BucketSquare from './components/icons/BucketSquare.vue';
-import Building from './components/icons/Building.vue';
-import Building3 from './components/icons/Building3.vue';
-import Building4 from './components/icons/Building4.vue';
-import Buildings from './components/icons/Buildings.vue';
-import Buildings2 from './components/icons/Buildings2.vue';
-import Buliding from './components/icons/Buliding.vue';
-import Bus from './components/icons/Bus.vue';
-import BuyCrypto from './components/icons/BuyCrypto.vue';
-import Cake from './components/icons/Cake.vue';
-import Calculator from './components/icons/Calculator.vue';
-import Calendar from './components/icons/Calendar.vue';
-import Calendar1 from './components/icons/Calendar1.vue';
-import Calendar2 from './components/icons/Calendar2.vue';
-import CalendarAdd from './components/icons/CalendarAdd.vue';
-import CalendarCircle from './components/icons/CalendarCircle.vue';
-import CalendarEdit from './components/icons/CalendarEdit.vue';
-import CalendarRemove from './components/icons/CalendarRemove.vue';
-import CalendarSearch from './components/icons/CalendarSearch.vue';
-import CalendarTick from './components/icons/CalendarTick.vue';
-import Call from './components/icons/Call.vue';
-import CallAdd from './components/icons/CallAdd.vue';
-import CallCalling from './components/icons/CallCalling.vue';
-import CallIncoming from './components/icons/CallIncoming.vue';
-import CallMinus from './components/icons/CallMinus.vue';
-import CallOutgoing from './components/icons/CallOutgoing.vue';
-import CallReceived from './components/icons/CallReceived.vue';
-import CallRemove from './components/icons/CallRemove.vue';
-import CallSlash from './components/icons/CallSlash.vue';
-import Camera from './components/icons/Camera.vue';
-import CameraSlash from './components/icons/CameraSlash.vue';
-import Candle from './components/icons/Candle.vue';
-import Candle2 from './components/icons/Candle2.vue';
-import Car from './components/icons/Car.vue';
-import Card from './components/icons/Card.vue';
-import CardAdd from './components/icons/CardAdd.vue';
-import Cardano from './components/icons/Cardano.vue';
-import CardCoin from './components/icons/CardCoin.vue';
-import CardEdit from './components/icons/CardEdit.vue';
-import CardPos from './components/icons/CardPos.vue';
-import CardReceive from './components/icons/CardReceive.vue';
-import CardRemove from './components/icons/CardRemove.vue';
-import CardRemove1 from './components/icons/CardRemove1.vue';
-import Cards from './components/icons/Cards.vue';
-import CardSend from './components/icons/CardSend.vue';
-import CardSlash from './components/icons/CardSlash.vue';
-import CardTick from './components/icons/CardTick.vue';
-import CardTick1 from './components/icons/CardTick1.vue';
-import Category from './components/icons/Category.vue';
-import Category2 from './components/icons/Category2.vue';
-import Cd from './components/icons/Cd.vue';
-import Celo from './components/icons/Celo.vue';
-import Celsius from './components/icons/Celsius.vue';
-import Chainlink from './components/icons/Chainlink.vue';
-import Chart from './components/icons/Chart.vue';
-import Chart1 from './components/icons/Chart1.vue';
-import Chart2 from './components/icons/Chart2.vue';
-import Chart21 from './components/icons/Chart21.vue';
-import ChartCircle from './components/icons/ChartCircle.vue';
-import ChartFail from './components/icons/ChartFail.vue';
-import ChartSquare from './components/icons/ChartSquare.vue';
-import ChartSuccess from './components/icons/ChartSuccess.vue';
-import Check from './components/icons/Check.vue';
-import ChemicalGlass from './components/icons/ChemicalGlass.vue';
-import Chrome from './components/icons/Chrome.vue';
-import Civic from './components/icons/Civic.vue';
-import Clipboard from './components/icons/Clipboard.vue';
-import ClipboardClose from './components/icons/ClipboardClose.vue';
-import ClipboardExport from './components/icons/ClipboardExport.vue';
-import ClipboardImport from './components/icons/ClipboardImport.vue';
-import ClipboardText from './components/icons/ClipboardText.vue';
-import ClipboardTick from './components/icons/ClipboardTick.vue';
-import Clock from './components/icons/Clock.vue';
-import CloseCircle from './components/icons/CloseCircle.vue';
-import CloseSquare from './components/icons/CloseSquare.vue';
-import Cloud from './components/icons/Cloud.vue';
-import CloudAdd from './components/icons/CloudAdd.vue';
-import CloudChange from './components/icons/CloudChange.vue';
-import CloudConnection from './components/icons/CloudConnection.vue';
-import CloudCross from './components/icons/CloudCross.vue';
-import CloudDrizzle from './components/icons/CloudDrizzle.vue';
-import CloudFog from './components/icons/CloudFog.vue';
-import CloudLightning from './components/icons/CloudLightning.vue';
-import CloudMinus from './components/icons/CloudMinus.vue';
-import CloudNotif from './components/icons/CloudNotif.vue';
-import CloudPlus from './components/icons/CloudPlus.vue';
-import CloudRemove from './components/icons/CloudRemove.vue';
-import CloudSnow from './components/icons/CloudSnow.vue';
-import CloudSunny from './components/icons/CloudSunny.vue';
-import Code from './components/icons/Code.vue';
-import Code1 from './components/icons/Code1.vue';
-import CodeCircle from './components/icons/CodeCircle.vue';
-import Coffee from './components/icons/Coffee.vue';
-import Coin from './components/icons/Coin.vue';
-import Coin1 from './components/icons/Coin1.vue';
-import Colorfilter from './components/icons/Colorfilter.vue';
-import ColorsSquare from './components/icons/ColorsSquare.vue';
-import ColorSwatch from './components/icons/ColorSwatch.vue';
-import Command from './components/icons/Command.vue';
-import CommandSquare from './components/icons/CommandSquare.vue';
-import Component from './components/icons/Component.vue';
-import Computing from './components/icons/Computing.vue';
-import Convert from './components/icons/Convert.vue';
-import Convert3DCube from './components/icons/Convert3DCube.vue';
-import ConvertCard from './components/icons/ConvertCard.vue';
-import Convertshape from './components/icons/Convertshape.vue';
-import Convertshape2 from './components/icons/Convertshape2.vue';
-import Copy from './components/icons/Copy.vue';
-import Copyright from './components/icons/Copyright.vue';
-import CopySuccess from './components/icons/CopySuccess.vue';
-import Courthouse from './components/icons/Courthouse.vue';
-import Cpu from './components/icons/Cpu.vue';
-import CpuCharge from './components/icons/CpuCharge.vue';
-import CpuSetting from './components/icons/CpuSetting.vue';
-import CreativeCommons from './components/icons/CreativeCommons.vue';
-import Crop from './components/icons/Crop.vue';
-import Crown from './components/icons/Crown.vue';
-import Crown1 from './components/icons/Crown1.vue';
-import Cup from './components/icons/Cup.vue';
-import Cut from './components/icons/Cut.vue';
-import Dai from './components/icons/Dai.vue';
-import Danger from './components/icons/Danger.vue';
-import Dash from './components/icons/Dash.vue';
-import Data from './components/icons/Data.vue';
-import Data2 from './components/icons/Data2.vue';
-import Decred from './components/icons/Decred.vue';
-import Dent from './components/icons/Dent.vue';
-import Designtools from './components/icons/Designtools.vue';
-import DeviceMessage from './components/icons/DeviceMessage.vue';
-import Devices from './components/icons/Devices.vue';
-import Diagram from './components/icons/Diagram.vue';
-import Diamonds from './components/icons/Diamonds.vue';
-import Direct from './components/icons/Direct.vue';
-import DirectboxDefault from './components/icons/DirectboxDefault.vue';
-import DirectboxNotif from './components/icons/DirectboxNotif.vue';
-import DirectboxReceive from './components/icons/DirectboxReceive.vue';
-import DirectboxSend from './components/icons/DirectboxSend.vue';
-import DirectDown from './components/icons/DirectDown.vue';
-import DirectInbox from './components/icons/DirectInbox.vue';
-import DirectLeft from './components/icons/DirectLeft.vue';
-import DirectNormal from './components/icons/DirectNormal.vue';
-import DirectNotification from './components/icons/DirectNotification.vue';
-import DirectRight from './components/icons/DirectRight.vue';
-import DirectSend from './components/icons/DirectSend.vue';
-import DirectUp from './components/icons/DirectUp.vue';
-import DiscountCircle from './components/icons/DiscountCircle.vue';
-import DiscountShape from './components/icons/DiscountShape.vue';
-import Discover from './components/icons/Discover.vue';
-import Dislike from './components/icons/Dislike.vue';
-import Document from './components/icons/Document.vue';
-import DocumentCloud from './components/icons/DocumentCloud.vue';
-import DocumentCode from './components/icons/DocumentCode.vue';
-import DocumentCode2 from './components/icons/DocumentCode2.vue';
-import DocumentCopy from './components/icons/DocumentCopy.vue';
-import DocumentDownload from './components/icons/DocumentDownload.vue';
-import DocumentFavorite from './components/icons/DocumentFavorite.vue';
-import DocumentFilter from './components/icons/DocumentFilter.vue';
-import DocumentForward from './components/icons/DocumentForward.vue';
-import DocumentLike from './components/icons/DocumentLike.vue';
-import DocumentPrevious from './components/icons/DocumentPrevious.vue';
-import DocumentSketch from './components/icons/DocumentSketch.vue';
-import DocumentText from './components/icons/DocumentText.vue';
-import DocumentText1 from './components/icons/DocumentText1.vue';
-import DocumentUpload from './components/icons/DocumentUpload.vue';
-import DollarCircle from './components/icons/DollarCircle.vue';
-import DollarSquare from './components/icons/DollarSquare.vue';
-import Dribbble from './components/icons/Dribbble.vue';
-import Driver from './components/icons/Driver.vue';
-import Driver2 from './components/icons/Driver2.vue';
-import DriverRefresh from './components/icons/DriverRefresh.vue';
-import Driving from './components/icons/Driving.vue';
-import Drop from './components/icons/Drop.vue';
-import Dropbox from './components/icons/Dropbox.vue';
-import Edit from './components/icons/Edit.vue';
-import Edit2 from './components/icons/Edit2.vue';
-import Educare from './components/icons/Educare.vue';
-import Electricity from './components/icons/Electricity.vue';
-import Element from './components/icons/Element.vue';
-import Element2 from './components/icons/Element2.vue';
-import Element3 from './components/icons/Element3.vue';
-import Element4 from './components/icons/Element4.vue';
-import ElementEqual from './components/icons/ElementEqual.vue';
-import ElementPlus from './components/icons/ElementPlus.vue';
-import Emercoin from './components/icons/Emercoin.vue';
-import EmojiHappy from './components/icons/EmojiHappy.vue';
-import EmojiNormal from './components/icons/EmojiNormal.vue';
-import EmojiSad from './components/icons/EmojiSad.vue';
-import EmptyWallet from './components/icons/EmptyWallet.vue';
-import EmptyWalletAdd from './components/icons/EmptyWalletAdd.vue';
-import EmptyWalletChange from './components/icons/EmptyWalletChange.vue';
-import EmptyWalletRemove from './components/icons/EmptyWalletRemove.vue';
-import EmptyWalletTick from './components/icons/EmptyWalletTick.vue';
-import EmptyWalletTime from './components/icons/EmptyWalletTime.vue';
-import EnjinCoin from './components/icons/EnjinCoin.vue';
-import Eos from './components/icons/Eos.vue';
-import Eraser from './components/icons/Eraser.vue';
-import EraserSquare from './components/icons/EraserSquare.vue';
-import Ethereum from './components/icons/Ethereum.vue';
-import EthereumClassic from './components/icons/EthereumClassic.vue';
-import Export from './components/icons/Export.vue';
-import ExportCircle from './components/icons/ExportCircle.vue';
-import ExportCurve from './components/icons/ExportCurve.vue';
-import ExportSquare from './components/icons/ExportSquare.vue';
-import ExternalDrive from './components/icons/ExternalDrive.vue';
-import Eye from './components/icons/Eye.vue';
-import EyeSlash from './components/icons/EyeSlash.vue';
-import Facebook from './components/icons/Facebook.vue';
-import Fatrows from './components/icons/Fatrows.vue';
-import FavoriteChart from './components/icons/FavoriteChart.vue';
-import Figma from './components/icons/Figma.vue';
-import Figma1 from './components/icons/Figma1.vue';
-import Filter from './components/icons/Filter.vue';
-import FilterAdd from './components/icons/FilterAdd.vue';
-import FilterEdit from './components/icons/FilterEdit.vue';
-import FilterRemove from './components/icons/FilterRemove.vue';
-import FilterSearch from './components/icons/FilterSearch.vue';
-import FilterSquare from './components/icons/FilterSquare.vue';
-import FilterTick from './components/icons/FilterTick.vue';
-import FingerCricle from './components/icons/FingerCricle.vue';
-import FingerScan from './components/icons/FingerScan.vue';
-import Firstline from './components/icons/Firstline.vue';
-import Flag from './components/icons/Flag.vue';
-import Flag2 from './components/icons/Flag2.vue';
-import Flash from './components/icons/Flash.vue';
-import FlashCircle from './components/icons/FlashCircle.vue';
-import FlashSlash from './components/icons/FlashSlash.vue';
-import Flashy from './components/icons/Flashy.vue';
-import Folder from './components/icons/Folder.vue';
-import Folder2 from './components/icons/Folder2.vue';
-import FolderAdd from './components/icons/FolderAdd.vue';
-import FolderCloud from './components/icons/FolderCloud.vue';
-import FolderConnection from './components/icons/FolderConnection.vue';
-import FolderCross from './components/icons/FolderCross.vue';
-import FolderFavorite from './components/icons/FolderFavorite.vue';
-import FolderMinus from './components/icons/FolderMinus.vue';
-import FolderOpen from './components/icons/FolderOpen.vue';
-import Forbidden from './components/icons/Forbidden.vue';
-import Forbidden2 from './components/icons/Forbidden2.vue';
-import FormatCircle from './components/icons/FormatCircle.vue';
-import FormatSquare from './components/icons/FormatSquare.vue';
-import Forward from './components/icons/Forward.vue';
-import Forward10Seconds from './components/icons/Forward10Seconds.vue';
-import Forward15Seconds from './components/icons/Forward15Seconds.vue';
-import Forward5Seconds from './components/icons/Forward5Seconds.vue';
-import ForwardItem from './components/icons/ForwardItem.vue';
-import Framer from './components/icons/Framer.vue';
-import FtxToken from './components/icons/FtxToken.vue';
-import Gallery from './components/icons/Gallery.vue';
-import GalleryAdd from './components/icons/GalleryAdd.vue';
-import GalleryEdit from './components/icons/GalleryEdit.vue';
-import GalleryExport from './components/icons/GalleryExport.vue';
-import GalleryFavorite from './components/icons/GalleryFavorite.vue';
-import GalleryImport from './components/icons/GalleryImport.vue';
-import GalleryRemove from './components/icons/GalleryRemove.vue';
-import GallerySlash from './components/icons/GallerySlash.vue';
-import GalleryTick from './components/icons/GalleryTick.vue';
-import Game from './components/icons/Game.vue';
-import Gameboy from './components/icons/Gameboy.vue';
-import GasStation from './components/icons/GasStation.vue';
-import Gemini from './components/icons/Gemini.vue';
-import Gemini2 from './components/icons/Gemini2.vue';
-import Ghost from './components/icons/Ghost.vue';
-import Gift from './components/icons/Gift.vue';
-import Glass from './components/icons/Glass.vue';
-import Global from './components/icons/Global.vue';
-import GlobalEdit from './components/icons/GlobalEdit.vue';
-import GlobalRefresh from './components/icons/GlobalRefresh.vue';
-import GlobalSearch from './components/icons/GlobalSearch.vue';
-import Google from './components/icons/Google.vue';
-import GoogleDrive from './components/icons/GoogleDrive.vue';
-import GooglePlay from './components/icons/GooglePlay.vue';
-import Gps from './components/icons/Gps.vue';
-import GpsSlash from './components/icons/GpsSlash.vue';
-import Grammerly from './components/icons/Grammerly.vue';
-import Graph from './components/icons/Graph.vue';
-import Grid1 from './components/icons/Grid1.vue';
-import Grid2 from './components/icons/Grid2.vue';
-import Grid3 from './components/icons/Grid3.vue';
-import Grid4 from './components/icons/Grid4.vue';
-import Grid5 from './components/icons/Grid5.vue';
-import Grid6 from './components/icons/Grid6.vue';
-import Grid7 from './components/icons/Grid7.vue';
-import Grid8 from './components/icons/Grid8.vue';
-import Grid9 from './components/icons/Grid9.vue';
-import GridEdit from './components/icons/GridEdit.vue';
-import GridEraser from './components/icons/GridEraser.vue';
-import GridLock from './components/icons/GridLock.vue';
-import HambergerMenu from './components/icons/HambergerMenu.vue';
-import Happyemoji from './components/icons/Happyemoji.vue';
-import Harmony from './components/icons/Harmony.vue';
-import Hashtag from './components/icons/Hashtag.vue';
-import HashtagDown from './components/icons/HashtagDown.vue';
-import HashtagSquare from './components/icons/HashtagSquare.vue';
-import HashtagUp from './components/icons/HashtagUp.vue';
-import Headphone from './components/icons/Headphone.vue';
-import Headphones from './components/icons/Headphones.vue';
-import Health from './components/icons/Health.vue';
-import Heart from './components/icons/Heart.vue';
-import HeartAdd from './components/icons/HeartAdd.vue';
-import HeartCircle from './components/icons/HeartCircle.vue';
-import HeartEdit from './components/icons/HeartEdit.vue';
-import HeartRemove from './components/icons/HeartRemove.vue';
-import HeartSearch from './components/icons/HeartSearch.vue';
-import HeartSlash from './components/icons/HeartSlash.vue';
-import HeartTick from './components/icons/HeartTick.vue';
-import HederaHashgraph from './components/icons/HederaHashgraph.vue';
-import Hex from './components/icons/Hex.vue';
-import Hierarchy from './components/icons/Hierarchy.vue';
-import Hierarchy2 from './components/icons/Hierarchy2.vue';
-import Hierarchy3 from './components/icons/Hierarchy3.vue';
-import HierarchySquare from './components/icons/HierarchySquare.vue';
-import HierarchySquare2 from './components/icons/HierarchySquare2.vue';
-import HierarchySquare3 from './components/icons/HierarchySquare3.vue';
-import Home from './components/icons/Home.vue';
-import Home2 from './components/icons/Home2.vue';
-import Home3 from './components/icons/Home3.vue';
-import HomeHashtag from './components/icons/HomeHashtag.vue';
-import HomeTrendDown from './components/icons/HomeTrendDown.vue';
-import HomeTrendUp from './components/icons/HomeTrendUp.vue';
-import HomeWifi from './components/icons/HomeWifi.vue';
-import Hospital from './components/icons/Hospital.vue';
-import House from './components/icons/House.vue';
-import House2 from './components/icons/House2.vue';
-import Html3 from './components/icons/Html3.vue';
-import Html5 from './components/icons/Html5.vue';
-import HuobiToken from './components/icons/HuobiToken.vue';
-import I24Support from './components/icons/I24Support.vue';
-import I3Dcube from './components/icons/I3Dcube.vue';
-import I3DCubeScan from './components/icons/I3DCubeScan.vue';
-import I3DRotate from './components/icons/I3DRotate.vue';
-import I3DSquare from './components/icons/I3DSquare.vue';
-import I3Square from './components/icons/I3Square.vue';
-import Icon from './components/icons/Icon.vue';
-import Illustrator from './components/icons/Illustrator.vue';
-import Image from './components/icons/Image.vue';
-import Import from './components/icons/Import.vue';
-import ImportCircle from './components/icons/ImportCircle.vue';
-import ImportCurve from './components/icons/ImportCurve.vue';
-import ImportSquare from './components/icons/ImportSquare.vue';
-import InfoCircle from './components/icons/InfoCircle.vue';
-import Information from './components/icons/Information.vue';
-import Instagram from './components/icons/Instagram.vue';
-import Iost from './components/icons/Iost.vue';
-import JavaScript from './components/icons/JavaScript.vue';
-import Js from './components/icons/Js.vue';
-import Judge from './components/icons/Judge.vue';
-import Kanban from './components/icons/Kanban.vue';
-import Key from './components/icons/Key.vue';
-import Keyboard from './components/icons/Keyboard.vue';
-import KeyboardOpen from './components/icons/KeyboardOpen.vue';
-import KeySquare from './components/icons/KeySquare.vue';
-import KyberNetwork from './components/icons/KyberNetwork.vue';
-import Lamp from './components/icons/Lamp.vue';
-import LampCharge from './components/icons/LampCharge.vue';
-import LampOn from './components/icons/LampOn.vue';
-import LampSlash from './components/icons/LampSlash.vue';
-import LanguageCircle from './components/icons/LanguageCircle.vue';
-import LanguageSquare from './components/icons/LanguageSquare.vue';
-import Layer from './components/icons/Layer.vue';
-import LayoutMaximize from './components/icons/LayoutMaximize.vue';
-import Level from './components/icons/Level.vue';
-import Lifebuoy from './components/icons/Lifebuoy.vue';
-import Like from './components/icons/Like.vue';
-import Like1 from './components/icons/Like1.vue';
-import LikeDislike from './components/icons/LikeDislike.vue';
-import LikeShapes from './components/icons/LikeShapes.vue';
-import LikeTag from './components/icons/LikeTag.vue';
-import Link from './components/icons/Link.vue';
-import Link1 from './components/icons/Link1.vue';
-import Link2 from './components/icons/Link2.vue';
-import Link21 from './components/icons/Link21.vue';
-import LinkCircle from './components/icons/LinkCircle.vue';
-import LinkSquare from './components/icons/LinkSquare.vue';
-import Litecoin from './components/icons/Litecoin.vue';
-import Location from './components/icons/Location.vue';
-import LocationAdd from './components/icons/LocationAdd.vue';
-import LocationCross from './components/icons/LocationCross.vue';
-import LocationDiscover from './components/icons/LocationDiscover.vue';
-import LocationMinus from './components/icons/LocationMinus.vue';
-import LocationSlash from './components/icons/LocationSlash.vue';
-import LocationTick from './components/icons/LocationTick.vue';
-import Lock from './components/icons/Lock.vue';
-import Lock1 from './components/icons/Lock1.vue';
-import LockCircle from './components/icons/LockCircle.vue';
-import LockSlash from './components/icons/LockSlash.vue';
-import Login from './components/icons/Login.vue';
-import LoginCurve from './components/icons/LoginCurve.vue';
-import Logout from './components/icons/Logout.vue';
-import LogoutCurve from './components/icons/LogoutCurve.vue';
-import Lovely from './components/icons/Lovely.vue';
-import Magicpen from './components/icons/Magicpen.vue';
-import MagicStar from './components/icons/MagicStar.vue';
-import MainComponent from './components/icons/MainComponent.vue';
-import Maker from './components/icons/Maker.vue';
-import Man from './components/icons/Man.vue';
-import Map from './components/icons/Map.vue';
-import Map1 from './components/icons/Map1.vue';
-import Mask from './components/icons/Mask.vue';
-import MaskLeft from './components/icons/MaskLeft.vue';
-import MaskRight from './components/icons/MaskRight.vue';
-import Math from './components/icons/Math.vue';
-import Maximize from './components/icons/Maximize.vue';
-import Maximize1 from './components/icons/Maximize1.vue';
-import Maximize2 from './components/icons/Maximize2.vue';
-import Maximize3 from './components/icons/Maximize3.vue';
-import Maximize4 from './components/icons/Maximize4.vue';
-import MaximizeCircle from './components/icons/MaximizeCircle.vue';
-import Medal from './components/icons/Medal.vue';
-import MedalStar from './components/icons/MedalStar.vue';
-import Menu from './components/icons/Menu.vue';
-import MenuBoard from './components/icons/MenuBoard.vue';
-import Message from './components/icons/Message.vue';
-import Message2 from './components/icons/Message2.vue';
-import MessageAdd from './components/icons/MessageAdd.vue';
-import MessageAdd1 from './components/icons/MessageAdd1.vue';
-import MessageCircle from './components/icons/MessageCircle.vue';
-import MessageEdit from './components/icons/MessageEdit.vue';
-import MessageFavorite from './components/icons/MessageFavorite.vue';
-import MessageMinus from './components/icons/MessageMinus.vue';
-import MessageNotif from './components/icons/MessageNotif.vue';
-import MessageProgramming from './components/icons/MessageProgramming.vue';
-import MessageQuestion from './components/icons/MessageQuestion.vue';
-import MessageRemove from './components/icons/MessageRemove.vue';
-import Messages from './components/icons/Messages.vue';
-import Messages1 from './components/icons/Messages1.vue';
-import Messages2 from './components/icons/Messages2.vue';
-import Messages3 from './components/icons/Messages3.vue';
-import MessageSearch from './components/icons/MessageSearch.vue';
-import MessageSquare from './components/icons/MessageSquare.vue';
-import MessageText from './components/icons/MessageText.vue';
-import MessageText1 from './components/icons/MessageText1.vue';
-import MessageTick from './components/icons/MessageTick.vue';
-import MessageTime from './components/icons/MessageTime.vue';
-import Messenger from './components/icons/Messenger.vue';
-import Microphone from './components/icons/Microphone.vue';
-import Microphone2 from './components/icons/Microphone2.vue';
-import MicrophoneSlash from './components/icons/MicrophoneSlash.vue';
-import MicrophoneSlash1 from './components/icons/MicrophoneSlash1.vue';
-import Microscope from './components/icons/Microscope.vue';
-import Milk from './components/icons/Milk.vue';
-import MiniMusicSqaure from './components/icons/MiniMusicSqaure.vue';
-import Minus from './components/icons/Minus.vue';
-import MinusCirlce from './components/icons/MinusCirlce.vue';
-import MinusSquare from './components/icons/MinusSquare.vue';
-import Mirror from './components/icons/Mirror.vue';
-import MirroringScreen from './components/icons/MirroringScreen.vue';
-import Mobile from './components/icons/Mobile.vue';
-import MobileProgramming from './components/icons/MobileProgramming.vue';
-import Monero from './components/icons/Monero.vue';
-import Money from './components/icons/Money.vue';
-import Money2 from './components/icons/Money2.vue';
-import Money3 from './components/icons/Money3.vue';
-import Money4 from './components/icons/Money4.vue';
-import MoneyAdd from './components/icons/MoneyAdd.vue';
-import MoneyArchive from './components/icons/MoneyArchive.vue';
-import MoneyChange from './components/icons/MoneyChange.vue';
-import MoneyForbidden from './components/icons/MoneyForbidden.vue';
-import MoneyRecive from './components/icons/MoneyRecive.vue';
-import MoneyRemove from './components/icons/MoneyRemove.vue';
-import Moneys from './components/icons/Moneys.vue';
-import MoneySend from './components/icons/MoneySend.vue';
-import MoneyTick from './components/icons/MoneyTick.vue';
-import MoneyTime from './components/icons/MoneyTime.vue';
-import Monitor from './components/icons/Monitor.vue';
-import MonitorMobbile from './components/icons/MonitorMobbile.vue';
-import MonitorRecorder from './components/icons/MonitorRecorder.vue';
-import Moon from './components/icons/Moon.vue';
-import More from './components/icons/More.vue';
-import More2 from './components/icons/More2.vue';
-import MoreCircle from './components/icons/MoreCircle.vue';
-import MoreSquare from './components/icons/MoreSquare.vue';
-import Mouse from './components/icons/Mouse.vue';
-import MouseCircle from './components/icons/MouseCircle.vue';
-import MouseSquare from './components/icons/MouseSquare.vue';
-import Music from './components/icons/Music.vue';
-import MusicCircle from './components/icons/MusicCircle.vue';
-import MusicDashboard from './components/icons/MusicDashboard.vue';
-import MusicFilter from './components/icons/MusicFilter.vue';
-import MusicLibrary2 from './components/icons/MusicLibrary2.vue';
-import Musicnote from './components/icons/Musicnote.vue';
-import MusicPlay from './components/icons/MusicPlay.vue';
-import MusicPlaylist from './components/icons/MusicPlaylist.vue';
-import MusicSquare from './components/icons/MusicSquare.vue';
-import MusicSquareAdd from './components/icons/MusicSquareAdd.vue';
-import MusicSquareRemove from './components/icons/MusicSquareRemove.vue';
-import MusicSquareSearch from './components/icons/MusicSquareSearch.vue';
-import Nebulas from './components/icons/Nebulas.vue';
-import Nem from './components/icons/Nem.vue';
-import Nexo from './components/icons/Nexo.vue';
-import Next from './components/icons/Next.vue';
-import Note from './components/icons/Note.vue';
-import Note1 from './components/icons/Note1.vue';
-import NoteAdd from './components/icons/NoteAdd.vue';
-import NoteFavorite from './components/icons/NoteFavorite.vue';
-import Notepad from './components/icons/Notepad.vue';
-import Notepad2 from './components/icons/Notepad2.vue';
-import NoteRemove from './components/icons/NoteRemove.vue';
-import NoteSquare from './components/icons/NoteSquare.vue';
-import NoteText from './components/icons/NoteText.vue';
-import Notification from './components/icons/Notification.vue';
-import Notification1 from './components/icons/Notification1.vue';
-import NotificationBing from './components/icons/NotificationBing.vue';
-import NotificationCircle from './components/icons/NotificationCircle.vue';
-import NotificationFavorite from './components/icons/NotificationFavorite.vue';
-import NotificationStatus from './components/icons/NotificationStatus.vue';
-import OceanProtocol from './components/icons/OceanProtocol.vue';
-import Okb from './components/icons/Okb.vue';
-import Okru from './components/icons/Okru.vue';
-import OmegaCircle from './components/icons/OmegaCircle.vue';
-import OmegaSquare from './components/icons/OmegaSquare.vue';
-import Ontology from './components/icons/Ontology.vue';
-import Paintbucket from './components/icons/Paintbucket.vue';
-import Paperclip from './components/icons/Paperclip.vue';
-import Paperclip2 from './components/icons/Paperclip2.vue';
-import PasswordCheck from './components/icons/PasswordCheck.vue';
-import PathTool from './components/icons/PathTool.vue';
-import PathTool2 from './components/icons/PathTool2.vue';
-import PathToolSquare from './components/icons/PathToolSquare.vue';
-import Pause from './components/icons/Pause.vue';
-import PauseCircle from './components/icons/PauseCircle.vue';
-import Paypal from './components/icons/Paypal.vue';
-import PenAdd from './components/icons/PenAdd.vue';
-import PenClose from './components/icons/PenClose.vue';
-import PenRemove from './components/icons/PenRemove.vue';
-import PenTool from './components/icons/PenTool.vue';
-import PenTool2 from './components/icons/PenTool2.vue';
-import People from './components/icons/People.vue';
-import PercentageCircle from './components/icons/PercentageCircle.vue';
-import PercentageSquare from './components/icons/PercentageSquare.vue';
-import Personalcard from './components/icons/Personalcard.vue';
-import Pet from './components/icons/Pet.vue';
-import Pharagraphspacing from './components/icons/Pharagraphspacing.vue';
-import Photoshop from './components/icons/Photoshop.vue';
-import PictureFrame from './components/icons/PictureFrame.vue';
-import Play from './components/icons/Play.vue';
-import PlayAdd from './components/icons/PlayAdd.vue';
-import PlayCircle from './components/icons/PlayCircle.vue';
-import PlayCricle from './components/icons/PlayCricle.vue';
-import PlayRemove from './components/icons/PlayRemove.vue';
-import Pointer from './components/icons/Pointer.vue';
-import Polkadot from './components/icons/Polkadot.vue';
-import Polygon from './components/icons/Polygon.vue';
-import Polyswarm from './components/icons/Polyswarm.vue';
-import PresentionChart from './components/icons/PresentionChart.vue';
-import Previous from './components/icons/Previous.vue';
-import Printer from './components/icons/Printer.vue';
-import PrinterSlash from './components/icons/PrinterSlash.vue';
-import Profile from './components/icons/Profile.vue';
-import Profile2User from './components/icons/Profile2User.vue';
-import ProfileAdd from './components/icons/ProfileAdd.vue';
-import ProfileCircle from './components/icons/ProfileCircle.vue';
-import ProfileDelete from './components/icons/ProfileDelete.vue';
-import ProfileRemove from './components/icons/ProfileRemove.vue';
-import ProfileTick from './components/icons/ProfileTick.vue';
-import ProgrammingArrow from './components/icons/ProgrammingArrow.vue';
-import ProgrammingArrows from './components/icons/ProgrammingArrows.vue';
-import Python from './components/icons/Python.vue';
-import Quant from './components/icons/Quant.vue';
-import QuoteDown from './components/icons/QuoteDown.vue';
-import QuoteDownCircle from './components/icons/QuoteDownCircle.vue';
-import QuoteDownSquare from './components/icons/QuoteDownSquare.vue';
-import QuoteUp from './components/icons/QuoteUp.vue';
-import QuoteUpCircle from './components/icons/QuoteUpCircle.vue';
-import QuoteUpSquare from './components/icons/QuoteUpSquare.vue';
-import Radar from './components/icons/Radar.vue';
-import Radar2 from './components/icons/Radar2.vue';
-import Radio from './components/icons/Radio.vue';
-import Ram from './components/icons/Ram.vue';
-import Ram2 from './components/icons/Ram2.vue';
-import Rank from './components/icons/Rank.vue';
-import Ranking from './components/icons/Ranking.vue';
-import Receipt from './components/icons/Receipt.vue';
-import Receipt1 from './components/icons/Receipt1.vue';
-import Receipt2 from './components/icons/Receipt2.vue';
-import Receipt21 from './components/icons/Receipt21.vue';
-import ReceiptAdd from './components/icons/ReceiptAdd.vue';
-import ReceiptDiscount from './components/icons/ReceiptDiscount.vue';
-import ReceiptDisscount from './components/icons/ReceiptDisscount.vue';
-import ReceiptEdit from './components/icons/ReceiptEdit.vue';
-import ReceiptItem from './components/icons/ReceiptItem.vue';
-import ReceiptMinus from './components/icons/ReceiptMinus.vue';
-import ReceiptSearch from './components/icons/ReceiptSearch.vue';
-import ReceiptSquare from './components/icons/ReceiptSquare.vue';
-import ReceiptText from './components/icons/ReceiptText.vue';
-import Receive from './components/icons/Receive.vue';
-import ReceiveSquare from './components/icons/ReceiveSquare.vue';
-import ReceiveSquare2 from './components/icons/ReceiveSquare2.vue';
-import Record from './components/icons/Record.vue';
-import RecordCircle from './components/icons/RecordCircle.vue';
-import RecoveryConvert from './components/icons/RecoveryConvert.vue';
-import Refresh from './components/icons/Refresh.vue';
-import Refresh2 from './components/icons/Refresh2.vue';
-import RefreshCircle from './components/icons/RefreshCircle.vue';
-import RefreshLeftSquare from './components/icons/RefreshLeftSquare.vue';
-import RefreshRightSquare from './components/icons/RefreshRightSquare.vue';
-import RefreshSquare from './components/icons/RefreshSquare.vue';
-import Repeat from './components/icons/Repeat.vue';
-import RepeatCircle from './components/icons/RepeatCircle.vue';
-import RepeateMusic from './components/icons/RepeateMusic.vue';
-import RepeateOne from './components/icons/RepeateOne.vue';
-import Reserve from './components/icons/Reserve.vue';
-import RotateLeft from './components/icons/RotateLeft.vue';
-import RotateRight from './components/icons/RotateRight.vue';
-import RouteSquare from './components/icons/RouteSquare.vue';
-import Routing from './components/icons/Routing.vue';
-import Routing2 from './components/icons/Routing2.vue';
-import RowHorizontal from './components/icons/RowHorizontal.vue';
-import RowVertical from './components/icons/RowVertical.vue';
-import Ruler from './components/icons/Ruler.vue';
-import RulerPen from './components/icons/RulerPen.vue';
-import SafeHome from './components/icons/SafeHome.vue';
-import Sagittarius from './components/icons/Sagittarius.vue';
-import Save2 from './components/icons/Save2.vue';
-import SaveAdd from './components/icons/SaveAdd.vue';
-import SaveMinus from './components/icons/SaveMinus.vue';
-import SaveRemove from './components/icons/SaveRemove.vue';
-import Scan from './components/icons/Scan.vue';
-import ScanBarcode from './components/icons/ScanBarcode.vue';
-import Scanner from './components/icons/Scanner.vue';
-import Scanning from './components/icons/Scanning.vue';
-import Scissor from './components/icons/Scissor.vue';
-import Screenmirroring from './components/icons/Screenmirroring.vue';
-import Scroll from './components/icons/Scroll.vue';
-import SearchFavorite from './components/icons/SearchFavorite.vue';
-import SearchFavorite1 from './components/icons/SearchFavorite1.vue';
-import SearchNormal from './components/icons/SearchNormal.vue';
-import SearchNormal1 from './components/icons/SearchNormal1.vue';
-import SearchStatus from './components/icons/SearchStatus.vue';
-import SearchStatus1 from './components/icons/SearchStatus1.vue';
-import SearchZoomIn from './components/icons/SearchZoomIn.vue';
-import SearchZoomIn1 from './components/icons/SearchZoomIn1.vue';
-import SearchZoomOut from './components/icons/SearchZoomOut.vue';
-import SearchZoomOut1 from './components/icons/SearchZoomOut1.vue';
-import Security from './components/icons/Security.vue';
-import SecurityCard from './components/icons/SecurityCard.vue';
-import SecuritySafe from './components/icons/SecuritySafe.vue';
-import SecurityTime from './components/icons/SecurityTime.vue';
-import SecurityUser from './components/icons/SecurityUser.vue';
-import Send from './components/icons/Send.vue';
-import Send2 from './components/icons/Send2.vue';
-import Setting from './components/icons/Setting.vue';
-import Setting2 from './components/icons/Setting2.vue';
-import Setting3 from './components/icons/Setting3.vue';
-import Setting4 from './components/icons/Setting4.vue';
-import Setting5 from './components/icons/Setting5.vue';
-import Settings from './components/icons/Settings.vue';
-import Shapes from './components/icons/Shapes.vue';
-import Shapes1 from './components/icons/Shapes1.vue';
-import Share from './components/icons/Share.vue';
-import Shield from './components/icons/Shield.vue';
-import ShieldCross from './components/icons/ShieldCross.vue';
-import ShieldSearch from './components/icons/ShieldSearch.vue';
-import ShieldSecurity from './components/icons/ShieldSecurity.vue';
-import ShieldSlash from './components/icons/ShieldSlash.vue';
-import ShieldTick from './components/icons/ShieldTick.vue';
-import Ship from './components/icons/Ship.vue';
-import Shop from './components/icons/Shop.vue';
-import ShopAdd from './components/icons/ShopAdd.vue';
-import ShoppingBag from './components/icons/ShoppingBag.vue';
-import ShoppingCart from './components/icons/ShoppingCart.vue';
-import ShopRemove from './components/icons/ShopRemove.vue';
-import Shuffle from './components/icons/Shuffle.vue';
-import Shutterstock from './components/icons/Shutterstock.vue';
-import Siacoin from './components/icons/Siacoin.vue';
-import SidebarBottom from './components/icons/SidebarBottom.vue';
-import SidebarLeft from './components/icons/SidebarLeft.vue';
-import SidebarRight from './components/icons/SidebarRight.vue';
-import SidebarTop from './components/icons/SidebarTop.vue';
-import Signpost from './components/icons/Signpost.vue';
-import Simcard from './components/icons/Simcard.vue';
-import Simcard1 from './components/icons/Simcard1.vue';
-import Simcard2 from './components/icons/Simcard2.vue';
-import Size from './components/icons/Size.vue';
-import Slack from './components/icons/Slack.vue';
-import Slash from './components/icons/Slash.vue';
-import Slider from './components/icons/Slider.vue';
-import SliderHorizontal from './components/icons/SliderHorizontal.vue';
-import SliderHorizontal1 from './components/icons/SliderHorizontal1.vue';
-import SliderVertical from './components/icons/SliderVertical.vue';
-import SliderVertical1 from './components/icons/SliderVertical1.vue';
-import Smallcaps from './components/icons/Smallcaps.vue';
-import SmartCar from './components/icons/SmartCar.vue';
-import SmartHome from './components/icons/SmartHome.vue';
-import Smileys from './components/icons/Smileys.vue';
-import Sms from './components/icons/Sms.vue';
-import SmsEdit from './components/icons/SmsEdit.vue';
-import SmsNotification from './components/icons/SmsNotification.vue';
-import SmsSearch from './components/icons/SmsSearch.vue';
-import SmsStar from './components/icons/SmsStar.vue';
-import SmsTracking from './components/icons/SmsTracking.vue';
-import Snapchat from './components/icons/Snapchat.vue';
-import Solana from './components/icons/Solana.vue';
-import Sort from './components/icons/Sort.vue';
-import Sound from './components/icons/Sound.vue';
-import Speaker from './components/icons/Speaker.vue';
-import Speedometer from './components/icons/Speedometer.vue';
-import Spotify from './components/icons/Spotify.vue';
-import Stacks from './components/icons/Stacks.vue';
-import Star from './components/icons/Star.vue';
-import Star1 from './components/icons/Star1.vue';
-import StarSlash from './components/icons/StarSlash.vue';
-import Status from './components/icons/Status.vue';
-import StatusUp from './components/icons/StatusUp.vue';
-import Stellar from './components/icons/Stellar.vue';
-import Sticker from './components/icons/Sticker.vue';
-import Stickynote from './components/icons/Stickynote.vue';
-import Stop from './components/icons/Stop.vue';
-import StopCircle from './components/icons/StopCircle.vue';
-import Story from './components/icons/Story.vue';
-import Strongbox from './components/icons/Strongbox.vue';
-import Strongbox2 from './components/icons/Strongbox2.vue';
-import Subtitle from './components/icons/Subtitle.vue';
-import Sun from './components/icons/Sun.vue';
-import Sun1 from './components/icons/Sun1.vue';
-import SunFog from './components/icons/SunFog.vue';
-import TableDocument from './components/icons/TableDocument.vue';
-import TableLamp from './components/icons/TableLamp.vue';
-import Tag from './components/icons/Tag.vue';
-import Tag2 from './components/icons/Tag2.vue';
-import TagCross from './components/icons/TagCross.vue';
-import TagRight from './components/icons/TagRight.vue';
-import TagUser from './components/icons/TagUser.vue';
-import Task from './components/icons/Task.vue';
-import TaskSquare from './components/icons/TaskSquare.vue';
-import Teacher from './components/icons/Teacher.vue';
-import Tenx from './components/icons/Tenx.vue';
-import Tether from './components/icons/Tether.vue';
-import Text from './components/icons/Text.vue';
-import TextalignCenter from './components/icons/TextalignCenter.vue';
-import TextalignJustifycenter from './components/icons/TextalignJustifycenter.vue';
-import TextalignJustifyleft from './components/icons/TextalignJustifyleft.vue';
-import TextalignJustifyright from './components/icons/TextalignJustifyright.vue';
-import TextalignLeft from './components/icons/TextalignLeft.vue';
-import TextalignRight from './components/icons/TextalignRight.vue';
-import TextBlock from './components/icons/TextBlock.vue';
-import TextBold from './components/icons/TextBold.vue';
-import TextItalic from './components/icons/TextItalic.vue';
-import TextUnderline from './components/icons/TextUnderline.vue';
-import TheGraph from './components/icons/TheGraph.vue';
-import Theta from './components/icons/Theta.vue';
-import Thorchain from './components/icons/Thorchain.vue';
-import TickCircle from './components/icons/TickCircle.vue';
-import Ticket from './components/icons/Ticket.vue';
-import Ticket2 from './components/icons/Ticket2.vue';
-import TicketDiscount from './components/icons/TicketDiscount.vue';
-import TicketExpired from './components/icons/TicketExpired.vue';
-import TicketStar from './components/icons/TicketStar.vue';
-import TickSquare from './components/icons/TickSquare.vue';
-import Timer from './components/icons/Timer.vue';
-import Timer1 from './components/icons/Timer1.vue';
-import TimerPause from './components/icons/TimerPause.vue';
-import TimerStart from './components/icons/TimerStart.vue';
-import ToggleOff from './components/icons/ToggleOff.vue';
-import ToggleOffCircle from './components/icons/ToggleOffCircle.vue';
-import ToggleOn from './components/icons/ToggleOn.vue';
-import ToggleOnCircle from './components/icons/ToggleOnCircle.vue';
-import Trade from './components/icons/Trade.vue';
-import TransactionMinus from './components/icons/TransactionMinus.vue';
-import Translate from './components/icons/Translate.vue';
-import Transmit from './components/icons/Transmit.vue';
-import TransmitSqaure2 from './components/icons/TransmitSqaure2.vue';
-import TransmitSquare from './components/icons/TransmitSquare.vue';
-import Trash from './components/icons/Trash.vue';
-import Tree from './components/icons/Tree.vue';
-import Trello from './components/icons/Trello.vue';
-import TrendDown from './components/icons/TrendDown.vue';
-import TrendUp from './components/icons/TrendUp.vue';
-import Triangle from './components/icons/Triangle.vue';
-import TriangleLogo from './components/icons/TriangleLogo.vue';
-import Trontron from './components/icons/Trontron.vue';
-import Truck from './components/icons/Truck.vue';
-import TruckFast from './components/icons/TruckFast.vue';
-import TruckRemove from './components/icons/TruckRemove.vue';
-import TruckTick from './components/icons/TruckTick.vue';
-import TruckTime from './components/icons/TruckTime.vue';
-import TrushSquare from './components/icons/TrushSquare.vue';
-import Twitch from './components/icons/Twitch.vue';
-import Ui8 from './components/icons/Ui8.vue';
-import Unlimited from './components/icons/Unlimited.vue';
-import Unlock from './components/icons/Unlock.vue';
-import UsdCoin from './components/icons/UsdCoin.vue';
-import User from './components/icons/User.vue';
-import UserAdd from './components/icons/UserAdd.vue';
-import UserCirlceAdd from './components/icons/UserCirlceAdd.vue';
-import UserEdit from './components/icons/UserEdit.vue';
-import UserMinus from './components/icons/UserMinus.vue';
-import UserOctagon from './components/icons/UserOctagon.vue';
-import UserRemove from './components/icons/UserRemove.vue';
-import UserSearch from './components/icons/UserSearch.vue';
-import UserSquare from './components/icons/UserSquare.vue';
-import UserTag from './components/icons/UserTag.vue';
-import UserTick from './components/icons/UserTick.vue';
-import Velas from './components/icons/Velas.vue';
-import Verify from './components/icons/Verify.vue';
-import Vibe from './components/icons/Vibe.vue';
-import Video from './components/icons/Video.vue';
-import VideoAdd from './components/icons/VideoAdd.vue';
-import VideoCircle from './components/icons/VideoCircle.vue';
-import VideoHorizontal from './components/icons/VideoHorizontal.vue';
-import VideoOctagon from './components/icons/VideoOctagon.vue';
-import VideoPlay from './components/icons/VideoPlay.vue';
-import VideoRemove from './components/icons/VideoRemove.vue';
-import VideoSlash from './components/icons/VideoSlash.vue';
-import VideoSquare from './components/icons/VideoSquare.vue';
-import VideoTick from './components/icons/VideoTick.vue';
-import VideoTime from './components/icons/VideoTime.vue';
-import VideoVertical from './components/icons/VideoVertical.vue';
-import VoiceCricle from './components/icons/VoiceCricle.vue';
-import VoiceSquare from './components/icons/VoiceSquare.vue';
-import Volume from './components/icons/Volume.vue';
-import VolumeCross from './components/icons/VolumeCross.vue';
-import VolumeHigh from './components/icons/VolumeHigh.vue';
-import VolumeLow from './components/icons/VolumeLow.vue';
-import VolumeLow1 from './components/icons/VolumeLow1.vue';
-import VolumeMute from './components/icons/VolumeMute.vue';
-import VolumeSlash from './components/icons/VolumeSlash.vue';
-import VolumeUp from './components/icons/VolumeUp.vue';
-import Wallet from './components/icons/Wallet.vue';
-import Wallet1 from './components/icons/Wallet1.vue';
-import Wallet2 from './components/icons/Wallet2.vue';
-import Wallet3 from './components/icons/Wallet3.vue';
-import WalletAdd from './components/icons/WalletAdd.vue';
-import WalletAdd1 from './components/icons/WalletAdd1.vue';
-import WalletCheck from './components/icons/WalletCheck.vue';
-import WalletMinus from './components/icons/WalletMinus.vue';
-import WalletMoney from './components/icons/WalletMoney.vue';
-import WalletRemove from './components/icons/WalletRemove.vue';
-import WalletSearch from './components/icons/WalletSearch.vue';
-import Wanchain from './components/icons/Wanchain.vue';
-import Wanchain1 from './components/icons/Wanchain1.vue';
-import Warning2 from './components/icons/Warning2.vue';
-import Watch from './components/icons/Watch.vue';
-import WatchStatus from './components/icons/WatchStatus.vue';
-import Weight from './components/icons/Weight.vue';
-import WeightMeter from './components/icons/WeightMeter.vue';
-import Whatsapp from './components/icons/Whatsapp.vue';
-import Wifi from './components/icons/Wifi.vue';
-import WifiSquare from './components/icons/WifiSquare.vue';
-import Wind from './components/icons/Wind.vue';
-import Wind2 from './components/icons/Wind2.vue';
-import Windows from './components/icons/Windows.vue';
-import Wing from './components/icons/Wing.vue';
-import Woman from './components/icons/Woman.vue';
-import WristClock from './components/icons/WristClock.vue';
-import Xd from './components/icons/Xd.vue';
-import Xiaomi from './components/icons/Xiaomi.vue';
-import Xrp from './components/icons/Xrp.vue';
-import Youtube from './components/icons/Youtube.vue';
-import Zel from './components/icons/Zel.vue';
-import Zoom from './components/icons/Zoom.vue';
-
-export {
-    VsxIcon,
-    Aave,
-    Activity,
-    Add,
-    AddCircle,
-    Additem,
-    AddSquare,
-    Airdrop,
-    Airplane,
-    AirplaneSquare,
-    Airpod,
-    Airpods,
-    Alarm,
-    AlignBottom,
-    AlignHorizontally,
-    AlignLeft,
-    AlignRight,
-    AlignTop,
-    AlignVertically,
-    Android,
-    Ankr,
-    Apple,
-    Aquarius,
-    Archive,
-    ArchiveAdd,
-    ArchiveBook,
-    ArchiveBox,
-    ArchiveMinus,
-    ArchiveSlash,
-    ArchiveTick,
-    ArrangeHorizontal,
-    ArrangeHorizontalCircle,
-    ArrangeHorizontalSquare,
-    ArrangeVertical,
-    ArrangeVerticalCircle,
-    ArrangeVerticalSquare,
-    Arrow,
-    ArrowCircleDown,
-    ArrowCircleDown2,
-    ArrowCircleLeft,
-    ArrowCircleLeft2,
-    ArrowCircleRight,
-    ArrowCircleRight2,
-    ArrowCircleUp,
-    ArrowCircleUp2,
-    ArrowDown,
-    ArrowDown2,
-    ArrowDown3,
-    ArrowForward,
-    ArrowForwardSquare,
-    ArrowLeft,
-    ArrowLeft2,
-    ArrowLeft3,
-    ArrowRight,
-    ArrowRight2,
-    ArrowRight3,
-    ArrowRotateLeft,
-    ArrowRotateRight,
-    ArrowSquare,
-    ArrowSquareDown,
-    ArrowSquareLeft,
-    ArrowSquareRight,
-    ArrowSquareUp,
-    ArrowSwapHorizontal,
-    ArrowSwapVertical,
-    ArrowUp,
-    ArrowUp2,
-    ArrowUp3,
-    AttachCircle,
-    AttachSquare,
-    AudioSquare,
-    Augur,
-    Autobrightness,
-    Autonio,
-    Avalanche,
-    Award,
-    Back,
-    BackSquare,
-    Backward,
-    Backward10Seconds,
-    Backward15Seconds,
-    Backward5Seconds,
-    BackwardItem,
-    Bag,
-    Bag2,
-    BagCross,
-    BagCross1,
-    BagHappy,
-    BagTick,
-    BagTick2,
-    BagTimer,
-    Bank,
-    Barcode,
-    BatteryCharging,
-    BatteryDisable,
-    BatteryEmpty,
-    BatteryEmpty1,
-    BatteryFull,
-    Be,
-    Bezier,
-    Bill,
-    BinanceCoin,
-    BinanceUsd,
-    Bitcoin,
-    BitcoinCard,
-    BitcoinConvert,
-    BitcoinRefresh,
-    Blend,
-    Blend2,
-    Blogger,
-    Bluetooth,
-    Bluetooth2,
-    BluetoothCircle,
-    BluetoothRectangle,
-    Blur,
-    Book,
-    Book1,
-    Bookmark,
-    Bookmark2,
-    BookSaved,
-    BookSquare,
-    Bootstrap,
-    Box,
-    Box1,
-    Box2,
-    BoxAdd,
-    BoxRemove,
-    BoxSearch,
-    BoxTick,
-    BoxTime,
-    Briefcase,
-    BrifecaseCross,
-    BrifecaseTick,
-    BrifecaseTimer,
-    Brodcast,
-    Broom,
-    Brush,
-    Brush2,
-    Brush3,
-    BrushBig,
-    BrushSquare,
-    Bubble,
-    Bucket,
-    BucketCircle,
-    BucketSquare,
-    Building,
-    Building3,
-    Building4,
-    Buildings,
-    Buildings2,
-    Buliding,
-    Bus,
-    BuyCrypto,
-    Cake,
-    Calculator,
-    Calendar,
-    Calendar1,
-    Calendar2,
-    CalendarAdd,
-    CalendarCircle,
-    CalendarEdit,
-    CalendarRemove,
-    CalendarSearch,
-    CalendarTick,
-    Call,
-    CallAdd,
-    CallCalling,
-    CallIncoming,
-    CallMinus,
-    CallOutgoing,
-    CallReceived,
-    CallRemove,
-    CallSlash,
-    Camera,
-    CameraSlash,
-    Candle,
-    Candle2,
-    Car,
-    Card,
-    CardAdd,
-    Cardano,
-    CardCoin,
-    CardEdit,
-    CardPos,
-    CardReceive,
-    CardRemove,
-    CardRemove1,
-    Cards,
-    CardSend,
-    CardSlash,
-    CardTick,
-    CardTick1,
-    Category,
-    Category2,
-    Cd,
-    Celo,
-    Celsius,
-    Chainlink,
-    Chart,
-    Chart1,
-    Chart2,
-    Chart21,
-    ChartCircle,
-    ChartFail,
-    ChartSquare,
-    ChartSuccess,
-    Check,
-    ChemicalGlass,
-    Chrome,
-    Civic,
-    Clipboard,
-    ClipboardClose,
-    ClipboardExport,
-    ClipboardImport,
-    ClipboardText,
-    ClipboardTick,
-    Clock,
-    CloseCircle,
-    CloseSquare,
-    Cloud,
-    CloudAdd,
-    CloudChange,
-    CloudConnection,
-    CloudCross,
-    CloudDrizzle,
-    CloudFog,
-    CloudLightning,
-    CloudMinus,
-    CloudNotif,
-    CloudPlus,
-    CloudRemove,
-    CloudSnow,
-    CloudSunny,
-    Code,
-    Code1,
-    CodeCircle,
-    Coffee,
-    Coin,
-    Coin1,
-    Colorfilter,
-    ColorsSquare,
-    ColorSwatch,
-    Command,
-    CommandSquare,
-    Component,
-    Computing,
-    Convert,
-    Convert3DCube,
-    ConvertCard,
-    Convertshape,
-    Convertshape2,
-    Copy,
-    Copyright,
-    CopySuccess,
-    Courthouse,
-    Cpu,
-    CpuCharge,
-    CpuSetting,
-    CreativeCommons,
-    Crop,
-    Crown,
-    Crown1,
-    Cup,
-    Cut,
-    Dai,
-    Danger,
-    Dash,
-    Data,
-    Data2,
-    Decred,
-    Dent,
-    Designtools,
-    DeviceMessage,
-    Devices,
-    Diagram,
-    Diamonds,
-    Direct,
-    DirectboxDefault,
-    DirectboxNotif,
-    DirectboxReceive,
-    DirectboxSend,
-    DirectDown,
-    DirectInbox,
-    DirectLeft,
-    DirectNormal,
-    DirectNotification,
-    DirectRight,
-    DirectSend,
-    DirectUp,
-    DiscountCircle,
-    DiscountShape,
-    Discover,
-    Dislike,
-    Document,
-    DocumentCloud,
-    DocumentCode,
-    DocumentCode2,
-    DocumentCopy,
-    DocumentDownload,
-    DocumentFavorite,
-    DocumentFilter,
-    DocumentForward,
-    DocumentLike,
-    DocumentPrevious,
-    DocumentSketch,
-    DocumentText,
-    DocumentText1,
-    DocumentUpload,
-    DollarCircle,
-    DollarSquare,
-    Dribbble,
-    Driver,
-    Driver2,
-    DriverRefresh,
-    Driving,
-    Drop,
-    Dropbox,
-    Edit,
-    Edit2,
-    Educare,
-    Electricity,
-    Element,
-    Element2,
-    Element3,
-    Element4,
-    ElementEqual,
-    ElementPlus,
-    Emercoin,
-    EmojiHappy,
-    EmojiNormal,
-    EmojiSad,
-    EmptyWallet,
-    EmptyWalletAdd,
-    EmptyWalletChange,
-    EmptyWalletRemove,
-    EmptyWalletTick,
-    EmptyWalletTime,
-    EnjinCoin,
-    Eos,
-    Eraser,
-    EraserSquare,
-    Ethereum,
-    EthereumClassic,
-    Export,
-    ExportCircle,
-    ExportCurve,
-    ExportSquare,
-    ExternalDrive,
-    Eye,
-    EyeSlash,
-    Facebook,
-    Fatrows,
-    FavoriteChart,
-    Figma,
-    Figma1,
-    Filter,
-    FilterAdd,
-    FilterEdit,
-    FilterRemove,
-    FilterSearch,
-    FilterSquare,
-    FilterTick,
-    FingerCricle,
-    FingerScan,
-    Firstline,
-    Flag,
-    Flag2,
-    Flash,
-    FlashCircle,
-    FlashSlash,
-    Flashy,
-    Folder,
-    Folder2,
-    FolderAdd,
-    FolderCloud,
-    FolderConnection,
-    FolderCross,
-    FolderFavorite,
-    FolderMinus,
-    FolderOpen,
-    Forbidden,
-    Forbidden2,
-    FormatCircle,
-    FormatSquare,
-    Forward,
-    Forward10Seconds,
-    Forward15Seconds,
-    Forward5Seconds,
-    ForwardItem,
-    Framer,
-    FtxToken,
-    Gallery,
-    GalleryAdd,
-    GalleryEdit,
-    GalleryExport,
-    GalleryFavorite,
-    GalleryImport,
-    GalleryRemove,
-    GallerySlash,
-    GalleryTick,
-    Game,
-    Gameboy,
-    GasStation,
-    Gemini,
-    Gemini2,
-    Ghost,
-    Gift,
-    Glass,
-    Global,
-    GlobalEdit,
-    GlobalRefresh,
-    GlobalSearch,
-    Google,
-    GoogleDrive,
-    GooglePlay,
-    Gps,
-    GpsSlash,
-    Grammerly,
-    Graph,
-    Grid1,
-    Grid2,
-    Grid3,
-    Grid4,
-    Grid5,
-    Grid6,
-    Grid7,
-    Grid8,
-    Grid9,
-    GridEdit,
-    GridEraser,
-    GridLock,
-    HambergerMenu,
-    Happyemoji,
-    Harmony,
-    Hashtag,
-    HashtagDown,
-    HashtagSquare,
-    HashtagUp,
-    Headphone,
-    Headphones,
-    Health,
-    Heart,
-    HeartAdd,
-    HeartCircle,
-    HeartEdit,
-    HeartRemove,
-    HeartSearch,
-    HeartSlash,
-    HeartTick,
-    HederaHashgraph,
-    Hex,
-    Hierarchy,
-    Hierarchy2,
-    Hierarchy3,
-    HierarchySquare,
-    HierarchySquare2,
-    HierarchySquare3,
-    Home,
-    Home2,
-    Home3,
-    HomeHashtag,
-    HomeTrendDown,
-    HomeTrendUp,
-    HomeWifi,
-    Hospital,
-    House,
-    House2,
-    Html3,
-    Html5,
-    HuobiToken,
-    I24Support,
-    I3Dcube,
-    I3DCubeScan,
-    I3DRotate,
-    I3DSquare,
-    I3Square,
-    Icon,
-    Illustrator,
-    Image,
-    Import,
-    ImportCircle,
-    ImportCurve,
-    ImportSquare,
-    InfoCircle,
-    Information,
-    Instagram,
-    Iost,
-    JavaScript,
-    Js,
-    Judge,
-    Kanban,
-    Key,
-    Keyboard,
-    KeyboardOpen,
-    KeySquare,
-    KyberNetwork,
-    Lamp,
-    LampCharge,
-    LampOn,
-    LampSlash,
-    LanguageCircle,
-    LanguageSquare,
-    Layer,
-    LayoutMaximize,
-    Level,
-    Lifebuoy,
-    Like,
-    Like1,
-    LikeDislike,
-    LikeShapes,
-    LikeTag,
-    Link,
-    Link1,
-    Link2,
-    Link21,
-    LinkCircle,
-    LinkSquare,
-    Litecoin,
-    Location,
-    LocationAdd,
-    LocationCross,
-    LocationDiscover,
-    LocationMinus,
-    LocationSlash,
-    LocationTick,
-    Lock,
-    Lock1,
-    LockCircle,
-    LockSlash,
-    Login,
-    LoginCurve,
-    Logout,
-    LogoutCurve,
-    Lovely,
-    Magicpen,
-    MagicStar,
-    MainComponent,
-    Maker,
-    Man,
-    Map,
-    Map1,
-    Mask,
-    MaskLeft,
-    MaskRight,
-    Math,
-    Maximize,
-    Maximize1,
-    Maximize2,
-    Maximize3,
-    Maximize4,
-    MaximizeCircle,
-    Medal,
-    MedalStar,
-    Menu,
-    MenuBoard,
-    Message,
-    Message2,
-    MessageAdd,
-    MessageAdd1,
-    MessageCircle,
-    MessageEdit,
-    MessageFavorite,
-    MessageMinus,
-    MessageNotif,
-    MessageProgramming,
-    MessageQuestion,
-    MessageRemove,
-    Messages,
-    Messages1,
-    Messages2,
-    Messages3,
-    MessageSearch,
-    MessageSquare,
-    MessageText,
-    MessageText1,
-    MessageTick,
-    MessageTime,
-    Messenger,
-    Microphone,
-    Microphone2,
-    MicrophoneSlash,
-    MicrophoneSlash1,
-    Microscope,
-    Milk,
-    MiniMusicSqaure,
-    Minus,
-    MinusCirlce,
-    MinusSquare,
-    Mirror,
-    MirroringScreen,
-    Mobile,
-    MobileProgramming,
-    Monero,
-    Money,
-    Money2,
-    Money3,
-    Money4,
-    MoneyAdd,
-    MoneyArchive,
-    MoneyChange,
-    MoneyForbidden,
-    MoneyRecive,
-    MoneyRemove,
-    Moneys,
-    MoneySend,
-    MoneyTick,
-    MoneyTime,
-    Monitor,
-    MonitorMobbile,
-    MonitorRecorder,
-    Moon,
-    More,
-    More2,
-    MoreCircle,
-    MoreSquare,
-    Mouse,
-    MouseCircle,
-    MouseSquare,
-    Music,
-    MusicCircle,
-    MusicDashboard,
-    MusicFilter,
-    MusicLibrary2,
-    Musicnote,
-    MusicPlay,
-    MusicPlaylist,
-    MusicSquare,
-    MusicSquareAdd,
-    MusicSquareRemove,
-    MusicSquareSearch,
-    Nebulas,
-    Nem,
-    Nexo,
-    Next,
-    Note,
-    Note1,
-    NoteAdd,
-    NoteFavorite,
-    Notepad,
-    Notepad2,
-    NoteRemove,
-    NoteSquare,
-    NoteText,
-    Notification,
-    Notification1,
-    NotificationBing,
-    NotificationCircle,
-    NotificationFavorite,
-    NotificationStatus,
-    OceanProtocol,
-    Okb,
-    Okru,
-    OmegaCircle,
-    OmegaSquare,
-    Ontology,
-    Paintbucket,
-    Paperclip,
-    Paperclip2,
-    PasswordCheck,
-    PathTool,
-    PathTool2,
-    PathToolSquare,
-    Pause,
-    PauseCircle,
-    Paypal,
-    PenAdd,
-    PenClose,
-    PenRemove,
-    PenTool,
-    PenTool2,
-    People,
-    PercentageCircle,
-    PercentageSquare,
-    Personalcard,
-    Pet,
-    Pharagraphspacing,
-    Photoshop,
-    PictureFrame,
-    Play,
-    PlayAdd,
-    PlayCircle,
-    PlayCricle,
-    PlayRemove,
-    Pointer,
-    Polkadot,
-    Polygon,
-    Polyswarm,
-    PresentionChart,
-    Previous,
-    Printer,
-    PrinterSlash,
-    Profile,
-    Profile2User,
-    ProfileAdd,
-    ProfileCircle,
-    ProfileDelete,
-    ProfileRemove,
-    ProfileTick,
-    ProgrammingArrow,
-    ProgrammingArrows,
-    Python,
-    Quant,
-    QuoteDown,
-    QuoteDownCircle,
-    QuoteDownSquare,
-    QuoteUp,
-    QuoteUpCircle,
-    QuoteUpSquare,
-    Radar,
-    Radar2,
-    Radio,
-    Ram,
-    Ram2,
-    Rank,
-    Ranking,
-    Receipt,
-    Receipt1,
-    Receipt2,
-    Receipt21,
-    ReceiptAdd,
-    ReceiptDiscount,
-    ReceiptDisscount,
-    ReceiptEdit,
-    ReceiptItem,
-    ReceiptMinus,
-    ReceiptSearch,
-    ReceiptSquare,
-    ReceiptText,
-    Receive,
-    ReceiveSquare,
-    ReceiveSquare2,
-    Record,
-    RecordCircle,
-    RecoveryConvert,
-    Refresh,
-    Refresh2,
-    RefreshCircle,
-    RefreshLeftSquare,
-    RefreshRightSquare,
-    RefreshSquare,
-    Repeat,
-    RepeatCircle,
-    RepeateMusic,
-    RepeateOne,
-    Reserve,
-    RotateLeft,
-    RotateRight,
-    RouteSquare,
-    Routing,
-    Routing2,
-    RowHorizontal,
-    RowVertical,
-    Ruler,
-    RulerPen,
-    SafeHome,
-    Sagittarius,
-    Save2,
-    SaveAdd,
-    SaveMinus,
-    SaveRemove,
-    Scan,
-    ScanBarcode,
-    Scanner,
-    Scanning,
-    Scissor,
-    Screenmirroring,
-    Scroll,
-    SearchFavorite,
-    SearchFavorite1,
-    SearchNormal,
-    SearchNormal1,
-    SearchStatus,
-    SearchStatus1,
-    SearchZoomIn,
-    SearchZoomIn1,
-    SearchZoomOut,
-    SearchZoomOut1,
-    Security,
-    SecurityCard,
-    SecuritySafe,
-    SecurityTime,
-    SecurityUser,
-    Send,
-    Send2,
-    Setting,
-    Setting2,
-    Setting3,
-    Setting4,
-    Setting5,
-    Settings,
-    Shapes,
-    Shapes1,
-    Share,
-    Shield,
-    ShieldCross,
-    ShieldSearch,
-    ShieldSecurity,
-    ShieldSlash,
-    ShieldTick,
-    Ship,
-    Shop,
-    ShopAdd,
-    ShoppingBag,
-    ShoppingCart,
-    ShopRemove,
-    Shuffle,
-    Shutterstock,
-    Siacoin,
-    SidebarBottom,
-    SidebarLeft,
-    SidebarRight,
-    SidebarTop,
-    Signpost,
-    Simcard,
-    Simcard1,
-    Simcard2,
-    Size,
-    Slack,
-    Slash,
-    Slider,
-    SliderHorizontal,
-    SliderHorizontal1,
-    SliderVertical,
-    SliderVertical1,
-    Smallcaps,
-    SmartCar,
-    SmartHome,
-    Smileys,
-    Sms,
-    SmsEdit,
-    SmsNotification,
-    SmsSearch,
-    SmsStar,
-    SmsTracking,
-    Snapchat,
-    Solana,
-    Sort,
-    Sound,
-    Speaker,
-    Speedometer,
-    Spotify,
-    Stacks,
-    Star,
-    Star1,
-    StarSlash,
-    Status,
-    StatusUp,
-    Stellar,
-    Sticker,
-    Stickynote,
-    Stop,
-    StopCircle,
-    Story,
-    Strongbox,
-    Strongbox2,
-    Subtitle,
-    Sun,
-    Sun1,
-    SunFog,
-    TableDocument,
-    TableLamp,
-    Tag,
-    Tag2,
-    TagCross,
-    TagRight,
-    TagUser,
-    Task,
-    TaskSquare,
-    Teacher,
-    Tenx,
-    Tether,
-    Text,
-    TextalignCenter,
-    TextalignJustifycenter,
-    TextalignJustifyleft,
-    TextalignJustifyright,
-    TextalignLeft,
-    TextalignRight,
-    TextBlock,
-    TextBold,
-    TextItalic,
-    TextUnderline,
-    TheGraph,
-    Theta,
-    Thorchain,
-    TickCircle,
-    Ticket,
-    Ticket2,
-    TicketDiscount,
-    TicketExpired,
-    TicketStar,
-    TickSquare,
-    Timer,
-    Timer1,
-    TimerPause,
-    TimerStart,
-    ToggleOff,
-    ToggleOffCircle,
-    ToggleOn,
-    ToggleOnCircle,
-    Trade,
-    TransactionMinus,
-    Translate,
-    Transmit,
-    TransmitSqaure2,
-    TransmitSquare,
-    Trash,
-    Tree,
-    Trello,
-    TrendDown,
-    TrendUp,
-    Triangle,
-    TriangleLogo,
-    Trontron,
-    Truck,
-    TruckFast,
-    TruckRemove,
-    TruckTick,
-    TruckTime,
-    TrushSquare,
-    Twitch,
-    Ui8,
-    Unlimited,
-    Unlock,
-    UsdCoin,
-    User,
-    UserAdd,
-    UserCirlceAdd,
-    UserEdit,
-    UserMinus,
-    UserOctagon,
-    UserRemove,
-    UserSearch,
-    UserSquare,
-    UserTag,
-    UserTick,
-    Velas,
-    Verify,
-    Vibe,
-    Video,
-    VideoAdd,
-    VideoCircle,
-    VideoHorizontal,
-    VideoOctagon,
-    VideoPlay,
-    VideoRemove,
-    VideoSlash,
-    VideoSquare,
-    VideoTick,
-    VideoTime,
-    VideoVertical,
-    VoiceCricle,
-    VoiceSquare,
-    Volume,
-    VolumeCross,
-    VolumeHigh,
-    VolumeLow,
-    VolumeLow1,
-    VolumeMute,
-    VolumeSlash,
-    VolumeUp,
-    Wallet,
-    Wallet1,
-    Wallet2,
-    Wallet3,
-    WalletAdd,
-    WalletAdd1,
-    WalletCheck,
-    WalletMinus,
-    WalletMoney,
-    WalletRemove,
-    WalletSearch,
-    Wanchain,
-    Wanchain1,
-    Warning2,
-    Watch,
-    WatchStatus,
-    Weight,
-    WeightMeter,
-    Whatsapp,
-    Wifi,
-    WifiSquare,
-    Wind,
-    Wind2,
-    Windows,
-    Wing,
-    Woman,
-    WristClock,
-    Xd,
-    Xiaomi,
-    Xrp,
-    Youtube,
-    Zel,
-    Zoom,
-};
+export { default as Aave } from './components/icons/Aave.vue';
+export { default as Activity } from './components/icons/Activity.vue';
+export { default as Add } from './components/icons/Add.vue';
+export { default as AddCircle } from './components/icons/AddCircle.vue';
+export { default as Additem } from './components/icons/Additem.vue';
+export { default as AddSquare } from './components/icons/AddSquare.vue';
+export { default as Airdrop } from './components/icons/Airdrop.vue';
+export { default as Airplane } from './components/icons/Airplane.vue';
+export { default as AirplaneSquare } from './components/icons/AirplaneSquare.vue';
+export { default as Airpod } from './components/icons/Airpod.vue';
+export { default as Airpods } from './components/icons/Airpods.vue';
+export { default as Alarm } from './components/icons/Alarm.vue';
+export { default as AlignBottom } from './components/icons/AlignBottom.vue';
+export { default as AlignHorizontally } from './components/icons/AlignHorizontally.vue';
+export { default as AlignLeft } from './components/icons/AlignLeft.vue';
+export { default as AlignRight } from './components/icons/AlignRight.vue';
+export { default as AlignTop } from './components/icons/AlignTop.vue';
+export { default as AlignVertically } from './components/icons/AlignVertically.vue';
+export { default as Android } from './components/icons/Android.vue';
+export { default as Ankr } from './components/icons/Ankr.vue';
+export { default as Apple } from './components/icons/Apple.vue';
+export { default as Aquarius } from './components/icons/Aquarius.vue';
+export { default as Archive } from './components/icons/Archive.vue';
+export { default as ArchiveAdd } from './components/icons/ArchiveAdd.vue';
+export { default as ArchiveBook } from './components/icons/ArchiveBook.vue';
+export { default as ArchiveBox } from './components/icons/ArchiveBox.vue';
+export { default as ArchiveMinus } from './components/icons/ArchiveMinus.vue';
+export { default as ArchiveSlash } from './components/icons/ArchiveSlash.vue';
+export { default as ArchiveTick } from './components/icons/ArchiveTick.vue';
+export { default as ArrangeHorizontal } from './components/icons/ArrangeHorizontal.vue';
+export { default as ArrangeHorizontalCircle } from './components/icons/ArrangeHorizontalCircle.vue';
+export { default as ArrangeHorizontalSquare } from './components/icons/ArrangeHorizontalSquare.vue';
+export { default as ArrangeVertical } from './components/icons/ArrangeVertical.vue';
+export { default as ArrangeVerticalCircle } from './components/icons/ArrangeVerticalCircle.vue';
+export { default as ArrangeVerticalSquare } from './components/icons/ArrangeVerticalSquare.vue';
+export { default as Arrow } from './components/icons/Arrow.vue';
+export { default as ArrowCircleDown } from './components/icons/ArrowCircleDown.vue';
+export { default as ArrowCircleDown2 } from './components/icons/ArrowCircleDown2.vue';
+export { default as ArrowCircleLeft } from './components/icons/ArrowCircleLeft.vue';
+export { default as ArrowCircleLeft2 } from './components/icons/ArrowCircleLeft2.vue';
+export { default as ArrowCircleRight } from './components/icons/ArrowCircleRight.vue';
+export { default as ArrowCircleRight2 } from './components/icons/ArrowCircleRight2.vue';
+export { default as ArrowCircleUp } from './components/icons/ArrowCircleUp.vue';
+export { default as ArrowCircleUp2 } from './components/icons/ArrowCircleUp2.vue';
+export { default as ArrowDown } from './components/icons/ArrowDown.vue';
+export { default as ArrowDown2 } from './components/icons/ArrowDown2.vue';
+export { default as ArrowDown3 } from './components/icons/ArrowDown3.vue';
+export { default as ArrowForward } from './components/icons/ArrowForward.vue';
+export { default as ArrowForwardSquare } from './components/icons/ArrowForwardSquare.vue';
+export { default as ArrowLeft } from './components/icons/ArrowLeft.vue';
+export { default as ArrowLeft2 } from './components/icons/ArrowLeft2.vue';
+export { default as ArrowLeft3 } from './components/icons/ArrowLeft3.vue';
+export { default as ArrowRight } from './components/icons/ArrowRight.vue';
+export { default as ArrowRight2 } from './components/icons/ArrowRight2.vue';
+export { default as ArrowRight3 } from './components/icons/ArrowRight3.vue';
+export { default as ArrowRotateLeft } from './components/icons/ArrowRotateLeft.vue';
+export { default as ArrowRotateRight } from './components/icons/ArrowRotateRight.vue';
+export { default as ArrowSquare } from './components/icons/ArrowSquare.vue';
+export { default as ArrowSquareDown } from './components/icons/ArrowSquareDown.vue';
+export { default as ArrowSquareLeft } from './components/icons/ArrowSquareLeft.vue';
+export { default as ArrowSquareRight } from './components/icons/ArrowSquareRight.vue';
+export { default as ArrowSquareUp } from './components/icons/ArrowSquareUp.vue';
+export { default as ArrowSwapHorizontal } from './components/icons/ArrowSwapHorizontal.vue';
+export { default as ArrowSwapVertical } from './components/icons/ArrowSwapVertical.vue';
+export { default as ArrowUp } from './components/icons/ArrowUp.vue';
+export { default as ArrowUp2 } from './components/icons/ArrowUp2.vue';
+export { default as ArrowUp3 } from './components/icons/ArrowUp3.vue';
+export { default as AttachCircle } from './components/icons/AttachCircle.vue';
+export { default as AttachSquare } from './components/icons/AttachSquare.vue';
+export { default as AudioSquare } from './components/icons/AudioSquare.vue';
+export { default as Augur } from './components/icons/Augur.vue';
+export { default as Autobrightness } from './components/icons/Autobrightness.vue';
+export { default as Autonio } from './components/icons/Autonio.vue';
+export { default as Avalanche } from './components/icons/Avalanche.vue';
+export { default as Award } from './components/icons/Award.vue';
+export { default as Back } from './components/icons/Back.vue';
+export { default as BackSquare } from './components/icons/BackSquare.vue';
+export { default as Backward } from './components/icons/Backward.vue';
+export { default as Backward10Seconds } from './components/icons/Backward10Seconds.vue';
+export { default as Backward15Seconds } from './components/icons/Backward15Seconds.vue';
+export { default as Backward5Seconds } from './components/icons/Backward5Seconds.vue';
+export { default as BackwardItem } from './components/icons/BackwardItem.vue';
+export { default as Bag } from './components/icons/Bag.vue';
+export { default as Bag2 } from './components/icons/Bag2.vue';
+export { default as BagCross } from './components/icons/BagCross.vue';
+export { default as BagCross1 } from './components/icons/BagCross1.vue';
+export { default as BagHappy } from './components/icons/BagHappy.vue';
+export { default as BagTick } from './components/icons/BagTick.vue';
+export { default as BagTick2 } from './components/icons/BagTick2.vue';
+export { default as BagTimer } from './components/icons/BagTimer.vue';
+export { default as Bank } from './components/icons/Bank.vue';
+export { default as Barcode } from './components/icons/Barcode.vue';
+export { default as BatteryCharging } from './components/icons/BatteryCharging.vue';
+export { default as BatteryDisable } from './components/icons/BatteryDisable.vue';
+export { default as BatteryEmpty } from './components/icons/BatteryEmpty.vue';
+export { default as BatteryEmpty1 } from './components/icons/BatteryEmpty1.vue';
+export { default as BatteryFull } from './components/icons/BatteryFull.vue';
+export { default as Be } from './components/icons/Be.vue';
+export { default as Bezier } from './components/icons/Bezier.vue';
+export { default as Bill } from './components/icons/Bill.vue';
+export { default as BinanceCoin } from './components/icons/BinanceCoin.vue';
+export { default as BinanceUsd } from './components/icons/BinanceUsd.vue';
+export { default as Bitcoin } from './components/icons/Bitcoin.vue';
+export { default as BitcoinCard } from './components/icons/BitcoinCard.vue';
+export { default as BitcoinConvert } from './components/icons/BitcoinConvert.vue';
+export { default as BitcoinRefresh } from './components/icons/BitcoinRefresh.vue';
+export { default as Blend } from './components/icons/Blend.vue';
+export { default as Blend2 } from './components/icons/Blend2.vue';
+export { default as Blogger } from './components/icons/Blogger.vue';
+export { default as Bluetooth } from './components/icons/Bluetooth.vue';
+export { default as Bluetooth2 } from './components/icons/Bluetooth2.vue';
+export { default as BluetoothCircle } from './components/icons/BluetoothCircle.vue';
+export { default as BluetoothRectangle } from './components/icons/BluetoothRectangle.vue';
+export { default as Blur } from './components/icons/Blur.vue';
+export { default as Book } from './components/icons/Book.vue';
+export { default as Book1 } from './components/icons/Book1.vue';
+export { default as Bookmark } from './components/icons/Bookmark.vue';
+export { default as Bookmark2 } from './components/icons/Bookmark2.vue';
+export { default as BookSaved } from './components/icons/BookSaved.vue';
+export { default as BookSquare } from './components/icons/BookSquare.vue';
+export { default as Bootstrap } from './components/icons/Bootstrap.vue';
+export { default as Box } from './components/icons/Box.vue';
+export { default as Box1 } from './components/icons/Box1.vue';
+export { default as Box2 } from './components/icons/Box2.vue';
+export { default as BoxAdd } from './components/icons/BoxAdd.vue';
+export { default as BoxRemove } from './components/icons/BoxRemove.vue';
+export { default as BoxSearch } from './components/icons/BoxSearch.vue';
+export { default as BoxTick } from './components/icons/BoxTick.vue';
+export { default as BoxTime } from './components/icons/BoxTime.vue';
+export { default as Briefcase } from './components/icons/Briefcase.vue';
+export { default as BrifecaseCross } from './components/icons/BrifecaseCross.vue';
+export { default as BrifecaseTick } from './components/icons/BrifecaseTick.vue';
+export { default as BrifecaseTimer } from './components/icons/BrifecaseTimer.vue';
+export { default as Brodcast } from './components/icons/Brodcast.vue';
+export { default as Broom } from './components/icons/Broom.vue';
+export { default as Brush } from './components/icons/Brush.vue';
+export { default as Brush2 } from './components/icons/Brush2.vue';
+export { default as Brush3 } from './components/icons/Brush3.vue';
+export { default as BrushBig } from './components/icons/BrushBig.vue';
+export { default as BrushSquare } from './components/icons/BrushSquare.vue';
+export { default as Bubble } from './components/icons/Bubble.vue';
+export { default as Bucket } from './components/icons/Bucket.vue';
+export { default as BucketCircle } from './components/icons/BucketCircle.vue';
+export { default as BucketSquare } from './components/icons/BucketSquare.vue';
+export { default as Building } from './components/icons/Building.vue';
+export { default as Building3 } from './components/icons/Building3.vue';
+export { default as Building4 } from './components/icons/Building4.vue';
+export { default as Buildings } from './components/icons/Buildings.vue';
+export { default as Buildings2 } from './components/icons/Buildings2.vue';
+export { default as Buliding } from './components/icons/Buliding.vue';
+export { default as Bus } from './components/icons/Bus.vue';
+export { default as BuyCrypto } from './components/icons/BuyCrypto.vue';
+export { default as Cake } from './components/icons/Cake.vue';
+export { default as Calculator } from './components/icons/Calculator.vue';
+export { default as Calendar } from './components/icons/Calendar.vue';
+export { default as Calendar1 } from './components/icons/Calendar1.vue';
+export { default as Calendar2 } from './components/icons/Calendar2.vue';
+export { default as CalendarAdd } from './components/icons/CalendarAdd.vue';
+export { default as CalendarCircle } from './components/icons/CalendarCircle.vue';
+export { default as CalendarEdit } from './components/icons/CalendarEdit.vue';
+export { default as CalendarRemove } from './components/icons/CalendarRemove.vue';
+export { default as CalendarSearch } from './components/icons/CalendarSearch.vue';
+export { default as CalendarTick } from './components/icons/CalendarTick.vue';
+export { default as Call } from './components/icons/Call.vue';
+export { default as CallAdd } from './components/icons/CallAdd.vue';
+export { default as CallCalling } from './components/icons/CallCalling.vue';
+export { default as CallIncoming } from './components/icons/CallIncoming.vue';
+export { default as CallMinus } from './components/icons/CallMinus.vue';
+export { default as CallOutgoing } from './components/icons/CallOutgoing.vue';
+export { default as CallReceived } from './components/icons/CallReceived.vue';
+export { default as CallRemove } from './components/icons/CallRemove.vue';
+export { default as CallSlash } from './components/icons/CallSlash.vue';
+export { default as Camera } from './components/icons/Camera.vue';
+export { default as CameraSlash } from './components/icons/CameraSlash.vue';
+export { default as Candle } from './components/icons/Candle.vue';
+export { default as Candle2 } from './components/icons/Candle2.vue';
+export { default as Car } from './components/icons/Car.vue';
+export { default as Card } from './components/icons/Card.vue';
+export { default as CardAdd } from './components/icons/CardAdd.vue';
+export { default as Cardano } from './components/icons/Cardano.vue';
+export { default as CardCoin } from './components/icons/CardCoin.vue';
+export { default as CardEdit } from './components/icons/CardEdit.vue';
+export { default as CardPos } from './components/icons/CardPos.vue';
+export { default as CardReceive } from './components/icons/CardReceive.vue';
+export { default as CardRemove } from './components/icons/CardRemove.vue';
+export { default as CardRemove1 } from './components/icons/CardRemove1.vue';
+export { default as Cards } from './components/icons/Cards.vue';
+export { default as CardSend } from './components/icons/CardSend.vue';
+export { default as CardSlash } from './components/icons/CardSlash.vue';
+export { default as CardTick } from './components/icons/CardTick.vue';
+export { default as CardTick1 } from './components/icons/CardTick1.vue';
+export { default as Category } from './components/icons/Category.vue';
+export { default as Category2 } from './components/icons/Category2.vue';
+export { default as Cd } from './components/icons/Cd.vue';
+export { default as Celo } from './components/icons/Celo.vue';
+export { default as Celsius } from './components/icons/Celsius.vue';
+export { default as Chainlink } from './components/icons/Chainlink.vue';
+export { default as Chart } from './components/icons/Chart.vue';
+export { default as Chart1 } from './components/icons/Chart1.vue';
+export { default as Chart2 } from './components/icons/Chart2.vue';
+export { default as Chart21 } from './components/icons/Chart21.vue';
+export { default as ChartCircle } from './components/icons/ChartCircle.vue';
+export { default as ChartFail } from './components/icons/ChartFail.vue';
+export { default as ChartSquare } from './components/icons/ChartSquare.vue';
+export { default as ChartSuccess } from './components/icons/ChartSuccess.vue';
+export { default as Check } from './components/icons/Check.vue';
+export { default as ChemicalGlass } from './components/icons/ChemicalGlass.vue';
+export { default as Chrome } from './components/icons/Chrome.vue';
+export { default as Civic } from './components/icons/Civic.vue';
+export { default as Clipboard } from './components/icons/Clipboard.vue';
+export { default as ClipboardClose } from './components/icons/ClipboardClose.vue';
+export { default as ClipboardExport } from './components/icons/ClipboardExport.vue';
+export { default as ClipboardImport } from './components/icons/ClipboardImport.vue';
+export { default as ClipboardText } from './components/icons/ClipboardText.vue';
+export { default as ClipboardTick } from './components/icons/ClipboardTick.vue';
+export { default as Clock } from './components/icons/Clock.vue';
+export { default as CloseCircle } from './components/icons/CloseCircle.vue';
+export { default as CloseSquare } from './components/icons/CloseSquare.vue';
+export { default as Cloud } from './components/icons/Cloud.vue';
+export { default as CloudAdd } from './components/icons/CloudAdd.vue';
+export { default as CloudChange } from './components/icons/CloudChange.vue';
+export { default as CloudConnection } from './components/icons/CloudConnection.vue';
+export { default as CloudCross } from './components/icons/CloudCross.vue';
+export { default as CloudDrizzle } from './components/icons/CloudDrizzle.vue';
+export { default as CloudFog } from './components/icons/CloudFog.vue';
+export { default as CloudLightning } from './components/icons/CloudLightning.vue';
+export { default as CloudMinus } from './components/icons/CloudMinus.vue';
+export { default as CloudNotif } from './components/icons/CloudNotif.vue';
+export { default as CloudPlus } from './components/icons/CloudPlus.vue';
+export { default as CloudRemove } from './components/icons/CloudRemove.vue';
+export { default as CloudSnow } from './components/icons/CloudSnow.vue';
+export { default as CloudSunny } from './components/icons/CloudSunny.vue';
+export { default as Code } from './components/icons/Code.vue';
+export { default as Code1 } from './components/icons/Code1.vue';
+export { default as CodeCircle } from './components/icons/CodeCircle.vue';
+export { default as Coffee } from './components/icons/Coffee.vue';
+export { default as Coin } from './components/icons/Coin.vue';
+export { default as Coin1 } from './components/icons/Coin1.vue';
+export { default as Colorfilter } from './components/icons/Colorfilter.vue';
+export { default as ColorsSquare } from './components/icons/ColorsSquare.vue';
+export { default as ColorSwatch } from './components/icons/ColorSwatch.vue';
+export { default as Command } from './components/icons/Command.vue';
+export { default as CommandSquare } from './components/icons/CommandSquare.vue';
+export { default as Component } from './components/icons/Component.vue';
+export { default as Computing } from './components/icons/Computing.vue';
+export { default as Convert } from './components/icons/Convert.vue';
+export { default as Convert3DCube } from './components/icons/Convert3DCube.vue';
+export { default as ConvertCard } from './components/icons/ConvertCard.vue';
+export { default as Convertshape } from './components/icons/Convertshape.vue';
+export { default as Convertshape2 } from './components/icons/Convertshape2.vue';
+export { default as Copy } from './components/icons/Copy.vue';
+export { default as Copyright } from './components/icons/Copyright.vue';
+export { default as CopySuccess } from './components/icons/CopySuccess.vue';
+export { default as Courthouse } from './components/icons/Courthouse.vue';
+export { default as Cpu } from './components/icons/Cpu.vue';
+export { default as CpuCharge } from './components/icons/CpuCharge.vue';
+export { default as CpuSetting } from './components/icons/CpuSetting.vue';
+export { default as CreativeCommons } from './components/icons/CreativeCommons.vue';
+export { default as Crop } from './components/icons/Crop.vue';
+export { default as Crown } from './components/icons/Crown.vue';
+export { default as Crown1 } from './components/icons/Crown1.vue';
+export { default as Cup } from './components/icons/Cup.vue';
+export { default as Cut } from './components/icons/Cut.vue';
+export { default as Dai } from './components/icons/Dai.vue';
+export { default as Danger } from './components/icons/Danger.vue';
+export { default as Dash } from './components/icons/Dash.vue';
+export { default as Data } from './components/icons/Data.vue';
+export { default as Data2 } from './components/icons/Data2.vue';
+export { default as Decred } from './components/icons/Decred.vue';
+export { default as Dent } from './components/icons/Dent.vue';
+export { default as Designtools } from './components/icons/Designtools.vue';
+export { default as DeviceMessage } from './components/icons/DeviceMessage.vue';
+export { default as Devices } from './components/icons/Devices.vue';
+export { default as Diagram } from './components/icons/Diagram.vue';
+export { default as Diamonds } from './components/icons/Diamonds.vue';
+export { default as Direct } from './components/icons/Direct.vue';
+export { default as DirectboxDefault } from './components/icons/DirectboxDefault.vue';
+export { default as DirectboxNotif } from './components/icons/DirectboxNotif.vue';
+export { default as DirectboxReceive } from './components/icons/DirectboxReceive.vue';
+export { default as DirectboxSend } from './components/icons/DirectboxSend.vue';
+export { default as DirectDown } from './components/icons/DirectDown.vue';
+export { default as DirectInbox } from './components/icons/DirectInbox.vue';
+export { default as DirectLeft } from './components/icons/DirectLeft.vue';
+export { default as DirectNormal } from './components/icons/DirectNormal.vue';
+export { default as DirectNotification } from './components/icons/DirectNotification.vue';
+export { default as DirectRight } from './components/icons/DirectRight.vue';
+export { default as DirectSend } from './components/icons/DirectSend.vue';
+export { default as DirectUp } from './components/icons/DirectUp.vue';
+export { default as DiscountCircle } from './components/icons/DiscountCircle.vue';
+export { default as DiscountShape } from './components/icons/DiscountShape.vue';
+export { default as Discover } from './components/icons/Discover.vue';
+export { default as Dislike } from './components/icons/Dislike.vue';
+export { default as Document } from './components/icons/Document.vue';
+export { default as DocumentCloud } from './components/icons/DocumentCloud.vue';
+export { default as DocumentCode } from './components/icons/DocumentCode.vue';
+export { default as DocumentCode2 } from './components/icons/DocumentCode2.vue';
+export { default as DocumentCopy } from './components/icons/DocumentCopy.vue';
+export { default as DocumentDownload } from './components/icons/DocumentDownload.vue';
+export { default as DocumentFavorite } from './components/icons/DocumentFavorite.vue';
+export { default as DocumentFilter } from './components/icons/DocumentFilter.vue';
+export { default as DocumentForward } from './components/icons/DocumentForward.vue';
+export { default as DocumentLike } from './components/icons/DocumentLike.vue';
+export { default as DocumentPrevious } from './components/icons/DocumentPrevious.vue';
+export { default as DocumentSketch } from './components/icons/DocumentSketch.vue';
+export { default as DocumentText } from './components/icons/DocumentText.vue';
+export { default as DocumentText1 } from './components/icons/DocumentText1.vue';
+export { default as DocumentUpload } from './components/icons/DocumentUpload.vue';
+export { default as DollarCircle } from './components/icons/DollarCircle.vue';
+export { default as DollarSquare } from './components/icons/DollarSquare.vue';
+export { default as Dribbble } from './components/icons/Dribbble.vue';
+export { default as Driver } from './components/icons/Driver.vue';
+export { default as Driver2 } from './components/icons/Driver2.vue';
+export { default as DriverRefresh } from './components/icons/DriverRefresh.vue';
+export { default as Driving } from './components/icons/Driving.vue';
+export { default as Drop } from './components/icons/Drop.vue';
+export { default as Dropbox } from './components/icons/Dropbox.vue';
+export { default as Edit } from './components/icons/Edit.vue';
+export { default as Edit2 } from './components/icons/Edit2.vue';
+export { default as Educare } from './components/icons/Educare.vue';
+export { default as Electricity } from './components/icons/Electricity.vue';
+export { default as Element } from './components/icons/Element.vue';
+export { default as Element2 } from './components/icons/Element2.vue';
+export { default as Element3 } from './components/icons/Element3.vue';
+export { default as Element4 } from './components/icons/Element4.vue';
+export { default as ElementEqual } from './components/icons/ElementEqual.vue';
+export { default as ElementPlus } from './components/icons/ElementPlus.vue';
+export { default as Emercoin } from './components/icons/Emercoin.vue';
+export { default as EmojiHappy } from './components/icons/EmojiHappy.vue';
+export { default as EmojiNormal } from './components/icons/EmojiNormal.vue';
+export { default as EmojiSad } from './components/icons/EmojiSad.vue';
+export { default as EmptyWallet } from './components/icons/EmptyWallet.vue';
+export { default as EmptyWalletAdd } from './components/icons/EmptyWalletAdd.vue';
+export { default as EmptyWalletChange } from './components/icons/EmptyWalletChange.vue';
+export { default as EmptyWalletRemove } from './components/icons/EmptyWalletRemove.vue';
+export { default as EmptyWalletTick } from './components/icons/EmptyWalletTick.vue';
+export { default as EmptyWalletTime } from './components/icons/EmptyWalletTime.vue';
+export { default as EnjinCoin } from './components/icons/EnjinCoin.vue';
+export { default as Eos } from './components/icons/Eos.vue';
+export { default as Eraser } from './components/icons/Eraser.vue';
+export { default as EraserSquare } from './components/icons/EraserSquare.vue';
+export { default as Ethereum } from './components/icons/Ethereum.vue';
+export { default as EthereumClassic } from './components/icons/EthereumClassic.vue';
+export { default as Export } from './components/icons/Export.vue';
+export { default as ExportCircle } from './components/icons/ExportCircle.vue';
+export { default as ExportCurve } from './components/icons/ExportCurve.vue';
+export { default as ExportSquare } from './components/icons/ExportSquare.vue';
+export { default as ExternalDrive } from './components/icons/ExternalDrive.vue';
+export { default as Eye } from './components/icons/Eye.vue';
+export { default as EyeSlash } from './components/icons/EyeSlash.vue';
+export { default as Facebook } from './components/icons/Facebook.vue';
+export { default as Fatrows } from './components/icons/Fatrows.vue';
+export { default as FavoriteChart } from './components/icons/FavoriteChart.vue';
+export { default as Figma } from './components/icons/Figma.vue';
+export { default as Figma1 } from './components/icons/Figma1.vue';
+export { default as Filter } from './components/icons/Filter.vue';
+export { default as FilterAdd } from './components/icons/FilterAdd.vue';
+export { default as FilterEdit } from './components/icons/FilterEdit.vue';
+export { default as FilterRemove } from './components/icons/FilterRemove.vue';
+export { default as FilterSearch } from './components/icons/FilterSearch.vue';
+export { default as FilterSquare } from './components/icons/FilterSquare.vue';
+export { default as FilterTick } from './components/icons/FilterTick.vue';
+export { default as FingerCricle } from './components/icons/FingerCricle.vue';
+export { default as FingerScan } from './components/icons/FingerScan.vue';
+export { default as Firstline } from './components/icons/Firstline.vue';
+export { default as Flag } from './components/icons/Flag.vue';
+export { default as Flag2 } from './components/icons/Flag2.vue';
+export { default as Flash } from './components/icons/Flash.vue';
+export { default as FlashCircle } from './components/icons/FlashCircle.vue';
+export { default as FlashSlash } from './components/icons/FlashSlash.vue';
+export { default as Flashy } from './components/icons/Flashy.vue';
+export { default as Folder } from './components/icons/Folder.vue';
+export { default as Folder2 } from './components/icons/Folder2.vue';
+export { default as FolderAdd } from './components/icons/FolderAdd.vue';
+export { default as FolderCloud } from './components/icons/FolderCloud.vue';
+export { default as FolderConnection } from './components/icons/FolderConnection.vue';
+export { default as FolderCross } from './components/icons/FolderCross.vue';
+export { default as FolderFavorite } from './components/icons/FolderFavorite.vue';
+export { default as FolderMinus } from './components/icons/FolderMinus.vue';
+export { default as FolderOpen } from './components/icons/FolderOpen.vue';
+export { default as Forbidden } from './components/icons/Forbidden.vue';
+export { default as Forbidden2 } from './components/icons/Forbidden2.vue';
+export { default as FormatCircle } from './components/icons/FormatCircle.vue';
+export { default as FormatSquare } from './components/icons/FormatSquare.vue';
+export { default as Forward } from './components/icons/Forward.vue';
+export { default as Forward10Seconds } from './components/icons/Forward10Seconds.vue';
+export { default as Forward15Seconds } from './components/icons/Forward15Seconds.vue';
+export { default as Forward5Seconds } from './components/icons/Forward5Seconds.vue';
+export { default as ForwardItem } from './components/icons/ForwardItem.vue';
+export { default as Framer } from './components/icons/Framer.vue';
+export { default as FtxToken } from './components/icons/FtxToken.vue';
+export { default as Gallery } from './components/icons/Gallery.vue';
+export { default as GalleryAdd } from './components/icons/GalleryAdd.vue';
+export { default as GalleryEdit } from './components/icons/GalleryEdit.vue';
+export { default as GalleryExport } from './components/icons/GalleryExport.vue';
+export { default as GalleryFavorite } from './components/icons/GalleryFavorite.vue';
+export { default as GalleryImport } from './components/icons/GalleryImport.vue';
+export { default as GalleryRemove } from './components/icons/GalleryRemove.vue';
+export { default as GallerySlash } from './components/icons/GallerySlash.vue';
+export { default as GalleryTick } from './components/icons/GalleryTick.vue';
+export { default as Game } from './components/icons/Game.vue';
+export { default as Gameboy } from './components/icons/Gameboy.vue';
+export { default as GasStation } from './components/icons/GasStation.vue';
+export { default as Gemini } from './components/icons/Gemini.vue';
+export { default as Gemini2 } from './components/icons/Gemini2.vue';
+export { default as Ghost } from './components/icons/Ghost.vue';
+export { default as Gift } from './components/icons/Gift.vue';
+export { default as Glass } from './components/icons/Glass.vue';
+export { default as Global } from './components/icons/Global.vue';
+export { default as GlobalEdit } from './components/icons/GlobalEdit.vue';
+export { default as GlobalRefresh } from './components/icons/GlobalRefresh.vue';
+export { default as GlobalSearch } from './components/icons/GlobalSearch.vue';
+export { default as Google } from './components/icons/Google.vue';
+export { default as GoogleDrive } from './components/icons/GoogleDrive.vue';
+export { default as GooglePlay } from './components/icons/GooglePlay.vue';
+export { default as Gps } from './components/icons/Gps.vue';
+export { default as GpsSlash } from './components/icons/GpsSlash.vue';
+export { default as Grammerly } from './components/icons/Grammerly.vue';
+export { default as Graph } from './components/icons/Graph.vue';
+export { default as Grid1 } from './components/icons/Grid1.vue';
+export { default as Grid2 } from './components/icons/Grid2.vue';
+export { default as Grid3 } from './components/icons/Grid3.vue';
+export { default as Grid4 } from './components/icons/Grid4.vue';
+export { default as Grid5 } from './components/icons/Grid5.vue';
+export { default as Grid6 } from './components/icons/Grid6.vue';
+export { default as Grid7 } from './components/icons/Grid7.vue';
+export { default as Grid8 } from './components/icons/Grid8.vue';
+export { default as Grid9 } from './components/icons/Grid9.vue';
+export { default as GridEdit } from './components/icons/GridEdit.vue';
+export { default as GridEraser } from './components/icons/GridEraser.vue';
+export { default as GridLock } from './components/icons/GridLock.vue';
+export { default as HambergerMenu } from './components/icons/HambergerMenu.vue';
+export { default as Happyemoji } from './components/icons/Happyemoji.vue';
+export { default as Harmony } from './components/icons/Harmony.vue';
+export { default as Hashtag } from './components/icons/Hashtag.vue';
+export { default as HashtagDown } from './components/icons/HashtagDown.vue';
+export { default as HashtagSquare } from './components/icons/HashtagSquare.vue';
+export { default as HashtagUp } from './components/icons/HashtagUp.vue';
+export { default as Headphone } from './components/icons/Headphone.vue';
+export { default as Headphones } from './components/icons/Headphones.vue';
+export { default as Health } from './components/icons/Health.vue';
+export { default as Heart } from './components/icons/Heart.vue';
+export { default as HeartAdd } from './components/icons/HeartAdd.vue';
+export { default as HeartCircle } from './components/icons/HeartCircle.vue';
+export { default as HeartEdit } from './components/icons/HeartEdit.vue';
+export { default as HeartRemove } from './components/icons/HeartRemove.vue';
+export { default as HeartSearch } from './components/icons/HeartSearch.vue';
+export { default as HeartSlash } from './components/icons/HeartSlash.vue';
+export { default as HeartTick } from './components/icons/HeartTick.vue';
+export { default as HederaHashgraph } from './components/icons/HederaHashgraph.vue';
+export { default as Hex } from './components/icons/Hex.vue';
+export { default as Hierarchy } from './components/icons/Hierarchy.vue';
+export { default as Hierarchy2 } from './components/icons/Hierarchy2.vue';
+export { default as Hierarchy3 } from './components/icons/Hierarchy3.vue';
+export { default as HierarchySquare } from './components/icons/HierarchySquare.vue';
+export { default as HierarchySquare2 } from './components/icons/HierarchySquare2.vue';
+export { default as HierarchySquare3 } from './components/icons/HierarchySquare3.vue';
+export { default as Home } from './components/icons/Home.vue';
+export { default as Home2 } from './components/icons/Home2.vue';
+export { default as Home3 } from './components/icons/Home3.vue';
+export { default as HomeHashtag } from './components/icons/HomeHashtag.vue';
+export { default as HomeTrendDown } from './components/icons/HomeTrendDown.vue';
+export { default as HomeTrendUp } from './components/icons/HomeTrendUp.vue';
+export { default as HomeWifi } from './components/icons/HomeWifi.vue';
+export { default as Hospital } from './components/icons/Hospital.vue';
+export { default as House } from './components/icons/House.vue';
+export { default as House2 } from './components/icons/House2.vue';
+export { default as Html3 } from './components/icons/Html3.vue';
+export { default as Html5 } from './components/icons/Html5.vue';
+export { default as HuobiToken } from './components/icons/HuobiToken.vue';
+export { default as I24Support } from './components/icons/I24Support.vue';
+export { default as I3Dcube } from './components/icons/I3Dcube.vue';
+export { default as I3DCubeScan } from './components/icons/I3DCubeScan.vue';
+export { default as I3DRotate } from './components/icons/I3DRotate.vue';
+export { default as I3DSquare } from './components/icons/I3DSquare.vue';
+export { default as I3Square } from './components/icons/I3Square.vue';
+export { default as Icon } from './components/icons/Icon.vue';
+export { default as Illustrator } from './components/icons/Illustrator.vue';
+export { default as Image } from './components/icons/Image.vue';
+export { default as Import } from './components/icons/Import.vue';
+export { default as ImportCircle } from './components/icons/ImportCircle.vue';
+export { default as ImportCurve } from './components/icons/ImportCurve.vue';
+export { default as ImportSquare } from './components/icons/ImportSquare.vue';
+export { default as InfoCircle } from './components/icons/InfoCircle.vue';
+export { default as Information } from './components/icons/Information.vue';
+export { default as Instagram } from './components/icons/Instagram.vue';
+export { default as Iost } from './components/icons/Iost.vue';
+export { default as JavaScript } from './components/icons/JavaScript.vue';
+export { default as Js } from './components/icons/Js.vue';
+export { default as Judge } from './components/icons/Judge.vue';
+export { default as Kanban } from './components/icons/Kanban.vue';
+export { default as Key } from './components/icons/Key.vue';
+export { default as Keyboard } from './components/icons/Keyboard.vue';
+export { default as KeyboardOpen } from './components/icons/KeyboardOpen.vue';
+export { default as KeySquare } from './components/icons/KeySquare.vue';
+export { default as KyberNetwork } from './components/icons/KyberNetwork.vue';
+export { default as Lamp } from './components/icons/Lamp.vue';
+export { default as LampCharge } from './components/icons/LampCharge.vue';
+export { default as LampOn } from './components/icons/LampOn.vue';
+export { default as LampSlash } from './components/icons/LampSlash.vue';
+export { default as LanguageCircle } from './components/icons/LanguageCircle.vue';
+export { default as LanguageSquare } from './components/icons/LanguageSquare.vue';
+export { default as Layer } from './components/icons/Layer.vue';
+export { default as LayoutMaximize } from './components/icons/LayoutMaximize.vue';
+export { default as Level } from './components/icons/Level.vue';
+export { default as Lifebuoy } from './components/icons/Lifebuoy.vue';
+export { default as Like } from './components/icons/Like.vue';
+export { default as Like1 } from './components/icons/Like1.vue';
+export { default as LikeDislike } from './components/icons/LikeDislike.vue';
+export { default as LikeShapes } from './components/icons/LikeShapes.vue';
+export { default as LikeTag } from './components/icons/LikeTag.vue';
+export { default as Link } from './components/icons/Link.vue';
+export { default as Link1 } from './components/icons/Link1.vue';
+export { default as Link2 } from './components/icons/Link2.vue';
+export { default as Link21 } from './components/icons/Link21.vue';
+export { default as LinkCircle } from './components/icons/LinkCircle.vue';
+export { default as LinkSquare } from './components/icons/LinkSquare.vue';
+export { default as Litecoin } from './components/icons/Litecoin.vue';
+export { default as Location } from './components/icons/Location.vue';
+export { default as LocationAdd } from './components/icons/LocationAdd.vue';
+export { default as LocationCross } from './components/icons/LocationCross.vue';
+export { default as LocationDiscover } from './components/icons/LocationDiscover.vue';
+export { default as LocationMinus } from './components/icons/LocationMinus.vue';
+export { default as LocationSlash } from './components/icons/LocationSlash.vue';
+export { default as LocationTick } from './components/icons/LocationTick.vue';
+export { default as Lock } from './components/icons/Lock.vue';
+export { default as Lock1 } from './components/icons/Lock1.vue';
+export { default as LockCircle } from './components/icons/LockCircle.vue';
+export { default as LockSlash } from './components/icons/LockSlash.vue';
+export { default as Login } from './components/icons/Login.vue';
+export { default as LoginCurve } from './components/icons/LoginCurve.vue';
+export { default as Logout } from './components/icons/Logout.vue';
+export { default as LogoutCurve } from './components/icons/LogoutCurve.vue';
+export { default as Lovely } from './components/icons/Lovely.vue';
+export { default as Magicpen } from './components/icons/Magicpen.vue';
+export { default as MagicStar } from './components/icons/MagicStar.vue';
+export { default as MainComponent } from './components/icons/MainComponent.vue';
+export { default as Maker } from './components/icons/Maker.vue';
+export { default as Man } from './components/icons/Man.vue';
+export { default as Map } from './components/icons/Map.vue';
+export { default as Map1 } from './components/icons/Map1.vue';
+export { default as Mask } from './components/icons/Mask.vue';
+export { default as MaskLeft } from './components/icons/MaskLeft.vue';
+export { default as MaskRight } from './components/icons/MaskRight.vue';
+export { default as Math } from './components/icons/Math.vue';
+export { default as Maximize } from './components/icons/Maximize.vue';
+export { default as Maximize1 } from './components/icons/Maximize1.vue';
+export { default as Maximize2 } from './components/icons/Maximize2.vue';
+export { default as Maximize3 } from './components/icons/Maximize3.vue';
+export { default as Maximize4 } from './components/icons/Maximize4.vue';
+export { default as MaximizeCircle } from './components/icons/MaximizeCircle.vue';
+export { default as Medal } from './components/icons/Medal.vue';
+export { default as MedalStar } from './components/icons/MedalStar.vue';
+export { default as Menu } from './components/icons/Menu.vue';
+export { default as MenuBoard } from './components/icons/MenuBoard.vue';
+export { default as Message } from './components/icons/Message.vue';
+export { default as Message2 } from './components/icons/Message2.vue';
+export { default as MessageAdd } from './components/icons/MessageAdd.vue';
+export { default as MessageAdd1 } from './components/icons/MessageAdd1.vue';
+export { default as MessageCircle } from './components/icons/MessageCircle.vue';
+export { default as MessageEdit } from './components/icons/MessageEdit.vue';
+export { default as MessageFavorite } from './components/icons/MessageFavorite.vue';
+export { default as MessageMinus } from './components/icons/MessageMinus.vue';
+export { default as MessageNotif } from './components/icons/MessageNotif.vue';
+export { default as MessageProgramming } from './components/icons/MessageProgramming.vue';
+export { default as MessageQuestion } from './components/icons/MessageQuestion.vue';
+export { default as MessageRemove } from './components/icons/MessageRemove.vue';
+export { default as Messages } from './components/icons/Messages.vue';
+export { default as Messages1 } from './components/icons/Messages1.vue';
+export { default as Messages2 } from './components/icons/Messages2.vue';
+export { default as Messages3 } from './components/icons/Messages3.vue';
+export { default as MessageSearch } from './components/icons/MessageSearch.vue';
+export { default as MessageSquare } from './components/icons/MessageSquare.vue';
+export { default as MessageText } from './components/icons/MessageText.vue';
+export { default as MessageText1 } from './components/icons/MessageText1.vue';
+export { default as MessageTick } from './components/icons/MessageTick.vue';
+export { default as MessageTime } from './components/icons/MessageTime.vue';
+export { default as Messenger } from './components/icons/Messenger.vue';
+export { default as Microphone } from './components/icons/Microphone.vue';
+export { default as Microphone2 } from './components/icons/Microphone2.vue';
+export { default as MicrophoneSlash } from './components/icons/MicrophoneSlash.vue';
+export { default as MicrophoneSlash1 } from './components/icons/MicrophoneSlash1.vue';
+export { default as Microscope } from './components/icons/Microscope.vue';
+export { default as Milk } from './components/icons/Milk.vue';
+export { default as MiniMusicSqaure } from './components/icons/MiniMusicSqaure.vue';
+export { default as Minus } from './components/icons/Minus.vue';
+export { default as MinusCirlce } from './components/icons/MinusCirlce.vue';
+export { default as MinusSquare } from './components/icons/MinusSquare.vue';
+export { default as Mirror } from './components/icons/Mirror.vue';
+export { default as MirroringScreen } from './components/icons/MirroringScreen.vue';
+export { default as Mobile } from './components/icons/Mobile.vue';
+export { default as MobileProgramming } from './components/icons/MobileProgramming.vue';
+export { default as Monero } from './components/icons/Monero.vue';
+export { default as Money } from './components/icons/Money.vue';
+export { default as Money2 } from './components/icons/Money2.vue';
+export { default as Money3 } from './components/icons/Money3.vue';
+export { default as Money4 } from './components/icons/Money4.vue';
+export { default as MoneyAdd } from './components/icons/MoneyAdd.vue';
+export { default as MoneyArchive } from './components/icons/MoneyArchive.vue';
+export { default as MoneyChange } from './components/icons/MoneyChange.vue';
+export { default as MoneyForbidden } from './components/icons/MoneyForbidden.vue';
+export { default as MoneyRecive } from './components/icons/MoneyRecive.vue';
+export { default as MoneyRemove } from './components/icons/MoneyRemove.vue';
+export { default as Moneys } from './components/icons/Moneys.vue';
+export { default as MoneySend } from './components/icons/MoneySend.vue';
+export { default as MoneyTick } from './components/icons/MoneyTick.vue';
+export { default as MoneyTime } from './components/icons/MoneyTime.vue';
+export { default as Monitor } from './components/icons/Monitor.vue';
+export { default as MonitorMobbile } from './components/icons/MonitorMobbile.vue';
+export { default as MonitorRecorder } from './components/icons/MonitorRecorder.vue';
+export { default as Moon } from './components/icons/Moon.vue';
+export { default as More } from './components/icons/More.vue';
+export { default as More2 } from './components/icons/More2.vue';
+export { default as MoreCircle } from './components/icons/MoreCircle.vue';
+export { default as MoreSquare } from './components/icons/MoreSquare.vue';
+export { default as Mouse } from './components/icons/Mouse.vue';
+export { default as MouseCircle } from './components/icons/MouseCircle.vue';
+export { default as MouseSquare } from './components/icons/MouseSquare.vue';
+export { default as Music } from './components/icons/Music.vue';
+export { default as MusicCircle } from './components/icons/MusicCircle.vue';
+export { default as MusicDashboard } from './components/icons/MusicDashboard.vue';
+export { default as MusicFilter } from './components/icons/MusicFilter.vue';
+export { default as MusicLibrary2 } from './components/icons/MusicLibrary2.vue';
+export { default as Musicnote } from './components/icons/Musicnote.vue';
+export { default as MusicPlay } from './components/icons/MusicPlay.vue';
+export { default as MusicPlaylist } from './components/icons/MusicPlaylist.vue';
+export { default as MusicSquare } from './components/icons/MusicSquare.vue';
+export { default as MusicSquareAdd } from './components/icons/MusicSquareAdd.vue';
+export { default as MusicSquareRemove } from './components/icons/MusicSquareRemove.vue';
+export { default as MusicSquareSearch } from './components/icons/MusicSquareSearch.vue';
+export { default as Nebulas } from './components/icons/Nebulas.vue';
+export { default as Nem } from './components/icons/Nem.vue';
+export { default as Nexo } from './components/icons/Nexo.vue';
+export { default as Next } from './components/icons/Next.vue';
+export { default as Note } from './components/icons/Note.vue';
+export { default as Note1 } from './components/icons/Note1.vue';
+export { default as NoteAdd } from './components/icons/NoteAdd.vue';
+export { default as NoteFavorite } from './components/icons/NoteFavorite.vue';
+export { default as Notepad } from './components/icons/Notepad.vue';
+export { default as Notepad2 } from './components/icons/Notepad2.vue';
+export { default as NoteRemove } from './components/icons/NoteRemove.vue';
+export { default as NoteSquare } from './components/icons/NoteSquare.vue';
+export { default as NoteText } from './components/icons/NoteText.vue';
+export { default as Notification } from './components/icons/Notification.vue';
+export { default as Notification1 } from './components/icons/Notification1.vue';
+export { default as NotificationBing } from './components/icons/NotificationBing.vue';
+export { default as NotificationCircle } from './components/icons/NotificationCircle.vue';
+export { default as NotificationFavorite } from './components/icons/NotificationFavorite.vue';
+export { default as NotificationStatus } from './components/icons/NotificationStatus.vue';
+export { default as OceanProtocol } from './components/icons/OceanProtocol.vue';
+export { default as Okb } from './components/icons/Okb.vue';
+export { default as Okru } from './components/icons/Okru.vue';
+export { default as OmegaCircle } from './components/icons/OmegaCircle.vue';
+export { default as OmegaSquare } from './components/icons/OmegaSquare.vue';
+export { default as Ontology } from './components/icons/Ontology.vue';
+export { default as Paintbucket } from './components/icons/Paintbucket.vue';
+export { default as Paperclip } from './components/icons/Paperclip.vue';
+export { default as Paperclip2 } from './components/icons/Paperclip2.vue';
+export { default as PasswordCheck } from './components/icons/PasswordCheck.vue';
+export { default as PathTool } from './components/icons/PathTool.vue';
+export { default as PathTool2 } from './components/icons/PathTool2.vue';
+export { default as PathToolSquare } from './components/icons/PathToolSquare.vue';
+export { default as Pause } from './components/icons/Pause.vue';
+export { default as PauseCircle } from './components/icons/PauseCircle.vue';
+export { default as Paypal } from './components/icons/Paypal.vue';
+export { default as PenAdd } from './components/icons/PenAdd.vue';
+export { default as PenClose } from './components/icons/PenClose.vue';
+export { default as PenRemove } from './components/icons/PenRemove.vue';
+export { default as PenTool } from './components/icons/PenTool.vue';
+export { default as PenTool2 } from './components/icons/PenTool2.vue';
+export { default as People } from './components/icons/People.vue';
+export { default as PercentageCircle } from './components/icons/PercentageCircle.vue';
+export { default as PercentageSquare } from './components/icons/PercentageSquare.vue';
+export { default as Personalcard } from './components/icons/Personalcard.vue';
+export { default as Pet } from './components/icons/Pet.vue';
+export { default as Pharagraphspacing } from './components/icons/Pharagraphspacing.vue';
+export { default as Photoshop } from './components/icons/Photoshop.vue';
+export { default as PictureFrame } from './components/icons/PictureFrame.vue';
+export { default as Play } from './components/icons/Play.vue';
+export { default as PlayAdd } from './components/icons/PlayAdd.vue';
+export { default as PlayCircle } from './components/icons/PlayCircle.vue';
+export { default as PlayCricle } from './components/icons/PlayCricle.vue';
+export { default as PlayRemove } from './components/icons/PlayRemove.vue';
+export { default as Pointer } from './components/icons/Pointer.vue';
+export { default as Polkadot } from './components/icons/Polkadot.vue';
+export { default as Polygon } from './components/icons/Polygon.vue';
+export { default as Polyswarm } from './components/icons/Polyswarm.vue';
+export { default as PresentionChart } from './components/icons/PresentionChart.vue';
+export { default as Previous } from './components/icons/Previous.vue';
+export { default as Printer } from './components/icons/Printer.vue';
+export { default as PrinterSlash } from './components/icons/PrinterSlash.vue';
+export { default as Profile } from './components/icons/Profile.vue';
+export { default as Profile2User } from './components/icons/Profile2User.vue';
+export { default as ProfileAdd } from './components/icons/ProfileAdd.vue';
+export { default as ProfileCircle } from './components/icons/ProfileCircle.vue';
+export { default as ProfileDelete } from './components/icons/ProfileDelete.vue';
+export { default as ProfileRemove } from './components/icons/ProfileRemove.vue';
+export { default as ProfileTick } from './components/icons/ProfileTick.vue';
+export { default as ProgrammingArrow } from './components/icons/ProgrammingArrow.vue';
+export { default as ProgrammingArrows } from './components/icons/ProgrammingArrows.vue';
+export { default as Python } from './components/icons/Python.vue';
+export { default as Quant } from './components/icons/Quant.vue';
+export { default as QuoteDown } from './components/icons/QuoteDown.vue';
+export { default as QuoteDownCircle } from './components/icons/QuoteDownCircle.vue';
+export { default as QuoteDownSquare } from './components/icons/QuoteDownSquare.vue';
+export { default as QuoteUp } from './components/icons/QuoteUp.vue';
+export { default as QuoteUpCircle } from './components/icons/QuoteUpCircle.vue';
+export { default as QuoteUpSquare } from './components/icons/QuoteUpSquare.vue';
+export { default as Radar } from './components/icons/Radar.vue';
+export { default as Radar2 } from './components/icons/Radar2.vue';
+export { default as Radio } from './components/icons/Radio.vue';
+export { default as Ram } from './components/icons/Ram.vue';
+export { default as Ram2 } from './components/icons/Ram2.vue';
+export { default as Rank } from './components/icons/Rank.vue';
+export { default as Ranking } from './components/icons/Ranking.vue';
+export { default as Receipt } from './components/icons/Receipt.vue';
+export { default as Receipt1 } from './components/icons/Receipt1.vue';
+export { default as Receipt2 } from './components/icons/Receipt2.vue';
+export { default as Receipt21 } from './components/icons/Receipt21.vue';
+export { default as ReceiptAdd } from './components/icons/ReceiptAdd.vue';
+export { default as ReceiptDiscount } from './components/icons/ReceiptDiscount.vue';
+export { default as ReceiptDisscount } from './components/icons/ReceiptDisscount.vue';
+export { default as ReceiptEdit } from './components/icons/ReceiptEdit.vue';
+export { default as ReceiptItem } from './components/icons/ReceiptItem.vue';
+export { default as ReceiptMinus } from './components/icons/ReceiptMinus.vue';
+export { default as ReceiptSearch } from './components/icons/ReceiptSearch.vue';
+export { default as ReceiptSquare } from './components/icons/ReceiptSquare.vue';
+export { default as ReceiptText } from './components/icons/ReceiptText.vue';
+export { default as Receive } from './components/icons/Receive.vue';
+export { default as ReceiveSquare } from './components/icons/ReceiveSquare.vue';
+export { default as ReceiveSquare2 } from './components/icons/ReceiveSquare2.vue';
+export { default as Record } from './components/icons/Record.vue';
+export { default as RecordCircle } from './components/icons/RecordCircle.vue';
+export { default as RecoveryConvert } from './components/icons/RecoveryConvert.vue';
+export { default as Refresh } from './components/icons/Refresh.vue';
+export { default as Refresh2 } from './components/icons/Refresh2.vue';
+export { default as RefreshCircle } from './components/icons/RefreshCircle.vue';
+export { default as RefreshLeftSquare } from './components/icons/RefreshLeftSquare.vue';
+export { default as RefreshRightSquare } from './components/icons/RefreshRightSquare.vue';
+export { default as RefreshSquare } from './components/icons/RefreshSquare.vue';
+export { default as Repeat } from './components/icons/Repeat.vue';
+export { default as RepeatCircle } from './components/icons/RepeatCircle.vue';
+export { default as RepeateMusic } from './components/icons/RepeateMusic.vue';
+export { default as RepeateOne } from './components/icons/RepeateOne.vue';
+export { default as Reserve } from './components/icons/Reserve.vue';
+export { default as RotateLeft } from './components/icons/RotateLeft.vue';
+export { default as RotateRight } from './components/icons/RotateRight.vue';
+export { default as RouteSquare } from './components/icons/RouteSquare.vue';
+export { default as Routing } from './components/icons/Routing.vue';
+export { default as Routing2 } from './components/icons/Routing2.vue';
+export { default as RowHorizontal } from './components/icons/RowHorizontal.vue';
+export { default as RowVertical } from './components/icons/RowVertical.vue';
+export { default as Ruler } from './components/icons/Ruler.vue';
+export { default as RulerPen } from './components/icons/RulerPen.vue';
+export { default as SafeHome } from './components/icons/SafeHome.vue';
+export { default as Sagittarius } from './components/icons/Sagittarius.vue';
+export { default as Save2 } from './components/icons/Save2.vue';
+export { default as SaveAdd } from './components/icons/SaveAdd.vue';
+export { default as SaveMinus } from './components/icons/SaveMinus.vue';
+export { default as SaveRemove } from './components/icons/SaveRemove.vue';
+export { default as Scan } from './components/icons/Scan.vue';
+export { default as ScanBarcode } from './components/icons/ScanBarcode.vue';
+export { default as Scanner } from './components/icons/Scanner.vue';
+export { default as Scanning } from './components/icons/Scanning.vue';
+export { default as Scissor } from './components/icons/Scissor.vue';
+export { default as Screenmirroring } from './components/icons/Screenmirroring.vue';
+export { default as Scroll } from './components/icons/Scroll.vue';
+export { default as SearchFavorite } from './components/icons/SearchFavorite.vue';
+export { default as SearchFavorite1 } from './components/icons/SearchFavorite1.vue';
+export { default as SearchNormal } from './components/icons/SearchNormal.vue';
+export { default as SearchNormal1 } from './components/icons/SearchNormal1.vue';
+export { default as SearchStatus } from './components/icons/SearchStatus.vue';
+export { default as SearchStatus1 } from './components/icons/SearchStatus1.vue';
+export { default as SearchZoomIn } from './components/icons/SearchZoomIn.vue';
+export { default as SearchZoomIn1 } from './components/icons/SearchZoomIn1.vue';
+export { default as SearchZoomOut } from './components/icons/SearchZoomOut.vue';
+export { default as SearchZoomOut1 } from './components/icons/SearchZoomOut1.vue';
+export { default as Security } from './components/icons/Security.vue';
+export { default as SecurityCard } from './components/icons/SecurityCard.vue';
+export { default as SecuritySafe } from './components/icons/SecuritySafe.vue';
+export { default as SecurityTime } from './components/icons/SecurityTime.vue';
+export { default as SecurityUser } from './components/icons/SecurityUser.vue';
+export { default as Send } from './components/icons/Send.vue';
+export { default as Send2 } from './components/icons/Send2.vue';
+export { default as Setting } from './components/icons/Setting.vue';
+export { default as Setting2 } from './components/icons/Setting2.vue';
+export { default as Setting3 } from './components/icons/Setting3.vue';
+export { default as Setting4 } from './components/icons/Setting4.vue';
+export { default as Setting5 } from './components/icons/Setting5.vue';
+export { default as Settings } from './components/icons/Settings.vue';
+export { default as Shapes } from './components/icons/Shapes.vue';
+export { default as Shapes1 } from './components/icons/Shapes1.vue';
+export { default as Share } from './components/icons/Share.vue';
+export { default as Shield } from './components/icons/Shield.vue';
+export { default as ShieldCross } from './components/icons/ShieldCross.vue';
+export { default as ShieldSearch } from './components/icons/ShieldSearch.vue';
+export { default as ShieldSecurity } from './components/icons/ShieldSecurity.vue';
+export { default as ShieldSlash } from './components/icons/ShieldSlash.vue';
+export { default as ShieldTick } from './components/icons/ShieldTick.vue';
+export { default as Ship } from './components/icons/Ship.vue';
+export { default as Shop } from './components/icons/Shop.vue';
+export { default as ShopAdd } from './components/icons/ShopAdd.vue';
+export { default as ShoppingBag } from './components/icons/ShoppingBag.vue';
+export { default as ShoppingCart } from './components/icons/ShoppingCart.vue';
+export { default as ShopRemove } from './components/icons/ShopRemove.vue';
+export { default as Shuffle } from './components/icons/Shuffle.vue';
+export { default as Shutterstock } from './components/icons/Shutterstock.vue';
+export { default as Siacoin } from './components/icons/Siacoin.vue';
+export { default as SidebarBottom } from './components/icons/SidebarBottom.vue';
+export { default as SidebarLeft } from './components/icons/SidebarLeft.vue';
+export { default as SidebarRight } from './components/icons/SidebarRight.vue';
+export { default as SidebarTop } from './components/icons/SidebarTop.vue';
+export { default as Signpost } from './components/icons/Signpost.vue';
+export { default as Simcard } from './components/icons/Simcard.vue';
+export { default as Simcard1 } from './components/icons/Simcard1.vue';
+export { default as Simcard2 } from './components/icons/Simcard2.vue';
+export { default as Size } from './components/icons/Size.vue';
+export { default as Slack } from './components/icons/Slack.vue';
+export { default as Slash } from './components/icons/Slash.vue';
+export { default as Slider } from './components/icons/Slider.vue';
+export { default as SliderHorizontal } from './components/icons/SliderHorizontal.vue';
+export { default as SliderHorizontal1 } from './components/icons/SliderHorizontal1.vue';
+export { default as SliderVertical } from './components/icons/SliderVertical.vue';
+export { default as SliderVertical1 } from './components/icons/SliderVertical1.vue';
+export { default as Smallcaps } from './components/icons/Smallcaps.vue';
+export { default as SmartCar } from './components/icons/SmartCar.vue';
+export { default as SmartHome } from './components/icons/SmartHome.vue';
+export { default as Smileys } from './components/icons/Smileys.vue';
+export { default as Sms } from './components/icons/Sms.vue';
+export { default as SmsEdit } from './components/icons/SmsEdit.vue';
+export { default as SmsNotification } from './components/icons/SmsNotification.vue';
+export { default as SmsSearch } from './components/icons/SmsSearch.vue';
+export { default as SmsStar } from './components/icons/SmsStar.vue';
+export { default as SmsTracking } from './components/icons/SmsTracking.vue';
+export { default as Snapchat } from './components/icons/Snapchat.vue';
+export { default as Solana } from './components/icons/Solana.vue';
+export { default as Sort } from './components/icons/Sort.vue';
+export { default as Sound } from './components/icons/Sound.vue';
+export { default as Speaker } from './components/icons/Speaker.vue';
+export { default as Speedometer } from './components/icons/Speedometer.vue';
+export { default as Spotify } from './components/icons/Spotify.vue';
+export { default as Stacks } from './components/icons/Stacks.vue';
+export { default as Star } from './components/icons/Star.vue';
+export { default as Star1 } from './components/icons/Star1.vue';
+export { default as StarSlash } from './components/icons/StarSlash.vue';
+export { default as Status } from './components/icons/Status.vue';
+export { default as StatusUp } from './components/icons/StatusUp.vue';
+export { default as Stellar } from './components/icons/Stellar.vue';
+export { default as Sticker } from './components/icons/Sticker.vue';
+export { default as Stickynote } from './components/icons/Stickynote.vue';
+export { default as Stop } from './components/icons/Stop.vue';
+export { default as StopCircle } from './components/icons/StopCircle.vue';
+export { default as Story } from './components/icons/Story.vue';
+export { default as Strongbox } from './components/icons/Strongbox.vue';
+export { default as Strongbox2 } from './components/icons/Strongbox2.vue';
+export { default as Subtitle } from './components/icons/Subtitle.vue';
+export { default as Sun } from './components/icons/Sun.vue';
+export { default as Sun1 } from './components/icons/Sun1.vue';
+export { default as SunFog } from './components/icons/SunFog.vue';
+export { default as TableDocument } from './components/icons/TableDocument.vue';
+export { default as TableLamp } from './components/icons/TableLamp.vue';
+export { default as Tag } from './components/icons/Tag.vue';
+export { default as Tag2 } from './components/icons/Tag2.vue';
+export { default as TagCross } from './components/icons/TagCross.vue';
+export { default as TagRight } from './components/icons/TagRight.vue';
+export { default as TagUser } from './components/icons/TagUser.vue';
+export { default as Task } from './components/icons/Task.vue';
+export { default as TaskSquare } from './components/icons/TaskSquare.vue';
+export { default as Teacher } from './components/icons/Teacher.vue';
+export { default as Tenx } from './components/icons/Tenx.vue';
+export { default as Tether } from './components/icons/Tether.vue';
+export { default as Text } from './components/icons/Text.vue';
+export { default as TextalignCenter } from './components/icons/TextalignCenter.vue';
+export { default as TextalignJustifycenter } from './components/icons/TextalignJustifycenter.vue';
+export { default as TextalignJustifyleft } from './components/icons/TextalignJustifyleft.vue';
+export { default as TextalignJustifyright } from './components/icons/TextalignJustifyright.vue';
+export { default as TextalignLeft } from './components/icons/TextalignLeft.vue';
+export { default as TextalignRight } from './components/icons/TextalignRight.vue';
+export { default as TextBlock } from './components/icons/TextBlock.vue';
+export { default as TextBold } from './components/icons/TextBold.vue';
+export { default as TextItalic } from './components/icons/TextItalic.vue';
+export { default as TextUnderline } from './components/icons/TextUnderline.vue';
+export { default as TheGraph } from './components/icons/TheGraph.vue';
+export { default as Theta } from './components/icons/Theta.vue';
+export { default as Thorchain } from './components/icons/Thorchain.vue';
+export { default as TickCircle } from './components/icons/TickCircle.vue';
+export { default as Ticket } from './components/icons/Ticket.vue';
+export { default as Ticket2 } from './components/icons/Ticket2.vue';
+export { default as TicketDiscount } from './components/icons/TicketDiscount.vue';
+export { default as TicketExpired } from './components/icons/TicketExpired.vue';
+export { default as TicketStar } from './components/icons/TicketStar.vue';
+export { default as TickSquare } from './components/icons/TickSquare.vue';
+export { default as Timer } from './components/icons/Timer.vue';
+export { default as Timer1 } from './components/icons/Timer1.vue';
+export { default as TimerPause } from './components/icons/TimerPause.vue';
+export { default as TimerStart } from './components/icons/TimerStart.vue';
+export { default as ToggleOff } from './components/icons/ToggleOff.vue';
+export { default as ToggleOffCircle } from './components/icons/ToggleOffCircle.vue';
+export { default as ToggleOn } from './components/icons/ToggleOn.vue';
+export { default as ToggleOnCircle } from './components/icons/ToggleOnCircle.vue';
+export { default as Trade } from './components/icons/Trade.vue';
+export { default as TransactionMinus } from './components/icons/TransactionMinus.vue';
+export { default as Translate } from './components/icons/Translate.vue';
+export { default as Transmit } from './components/icons/Transmit.vue';
+export { default as TransmitSqaure2 } from './components/icons/TransmitSqaure2.vue';
+export { default as TransmitSquare } from './components/icons/TransmitSquare.vue';
+export { default as Trash } from './components/icons/Trash.vue';
+export { default as Tree } from './components/icons/Tree.vue';
+export { default as Trello } from './components/icons/Trello.vue';
+export { default as TrendDown } from './components/icons/TrendDown.vue';
+export { default as TrendUp } from './components/icons/TrendUp.vue';
+export { default as Triangle } from './components/icons/Triangle.vue';
+export { default as TriangleLogo } from './components/icons/TriangleLogo.vue';
+export { default as Trontron } from './components/icons/Trontron.vue';
+export { default as Truck } from './components/icons/Truck.vue';
+export { default as TruckFast } from './components/icons/TruckFast.vue';
+export { default as TruckRemove } from './components/icons/TruckRemove.vue';
+export { default as TruckTick } from './components/icons/TruckTick.vue';
+export { default as TruckTime } from './components/icons/TruckTime.vue';
+export { default as TrushSquare } from './components/icons/TrushSquare.vue';
+export { default as Twitch } from './components/icons/Twitch.vue';
+export { default as Ui8 } from './components/icons/Ui8.vue';
+export { default as Unlimited } from './components/icons/Unlimited.vue';
+export { default as Unlock } from './components/icons/Unlock.vue';
+export { default as UsdCoin } from './components/icons/UsdCoin.vue';
+export { default as User } from './components/icons/User.vue';
+export { default as UserAdd } from './components/icons/UserAdd.vue';
+export { default as UserCirlceAdd } from './components/icons/UserCirlceAdd.vue';
+export { default as UserEdit } from './components/icons/UserEdit.vue';
+export { default as UserMinus } from './components/icons/UserMinus.vue';
+export { default as UserOctagon } from './components/icons/UserOctagon.vue';
+export { default as UserRemove } from './components/icons/UserRemove.vue';
+export { default as UserSearch } from './components/icons/UserSearch.vue';
+export { default as UserSquare } from './components/icons/UserSquare.vue';
+export { default as UserTag } from './components/icons/UserTag.vue';
+export { default as UserTick } from './components/icons/UserTick.vue';
+export { default as Velas } from './components/icons/Velas.vue';
+export { default as Verify } from './components/icons/Verify.vue';
+export { default as Vibe } from './components/icons/Vibe.vue';
+export { default as Video } from './components/icons/Video.vue';
+export { default as VideoAdd } from './components/icons/VideoAdd.vue';
+export { default as VideoCircle } from './components/icons/VideoCircle.vue';
+export { default as VideoHorizontal } from './components/icons/VideoHorizontal.vue';
+export { default as VideoOctagon } from './components/icons/VideoOctagon.vue';
+export { default as VideoPlay } from './components/icons/VideoPlay.vue';
+export { default as VideoRemove } from './components/icons/VideoRemove.vue';
+export { default as VideoSlash } from './components/icons/VideoSlash.vue';
+export { default as VideoSquare } from './components/icons/VideoSquare.vue';
+export { default as VideoTick } from './components/icons/VideoTick.vue';
+export { default as VideoTime } from './components/icons/VideoTime.vue';
+export { default as VideoVertical } from './components/icons/VideoVertical.vue';
+export { default as VoiceCricle } from './components/icons/VoiceCricle.vue';
+export { default as VoiceSquare } from './components/icons/VoiceSquare.vue';
+export { default as Volume } from './components/icons/Volume.vue';
+export { default as VolumeCross } from './components/icons/VolumeCross.vue';
+export { default as VolumeHigh } from './components/icons/VolumeHigh.vue';
+export { default as VolumeLow } from './components/icons/VolumeLow.vue';
+export { default as VolumeLow1 } from './components/icons/VolumeLow1.vue';
+export { default as VolumeMute } from './components/icons/VolumeMute.vue';
+export { default as VolumeSlash } from './components/icons/VolumeSlash.vue';
+export { default as VolumeUp } from './components/icons/VolumeUp.vue';
+export { default as Wallet } from './components/icons/Wallet.vue';
+export { default as Wallet1 } from './components/icons/Wallet1.vue';
+export { default as Wallet2 } from './components/icons/Wallet2.vue';
+export { default as Wallet3 } from './components/icons/Wallet3.vue';
+export { default as WalletAdd } from './components/icons/WalletAdd.vue';
+export { default as WalletAdd1 } from './components/icons/WalletAdd1.vue';
+export { default as WalletCheck } from './components/icons/WalletCheck.vue';
+export { default as WalletMinus } from './components/icons/WalletMinus.vue';
+export { default as WalletMoney } from './components/icons/WalletMoney.vue';
+export { default as WalletRemove } from './components/icons/WalletRemove.vue';
+export { default as WalletSearch } from './components/icons/WalletSearch.vue';
+export { default as Wanchain } from './components/icons/Wanchain.vue';
+export { default as Wanchain1 } from './components/icons/Wanchain1.vue';
+export { default as Warning2 } from './components/icons/Warning2.vue';
+export { default as Watch } from './components/icons/Watch.vue';
+export { default as WatchStatus } from './components/icons/WatchStatus.vue';
+export { default as Weight } from './components/icons/Weight.vue';
+export { default as WeightMeter } from './components/icons/WeightMeter.vue';
+export { default as Whatsapp } from './components/icons/Whatsapp.vue';
+export { default as Wifi } from './components/icons/Wifi.vue';
+export { default as WifiSquare } from './components/icons/WifiSquare.vue';
+export { default as Wind } from './components/icons/Wind.vue';
+export { default as Wind2 } from './components/icons/Wind2.vue';
+export { default as Windows } from './components/icons/Windows.vue';
+export { default as Wing } from './components/icons/Wing.vue';
+export { default as Woman } from './components/icons/Woman.vue';
+export { default as WristClock } from './components/icons/WristClock.vue';
+export { default as Xd } from './components/icons/Xd.vue';
+export { default as Xiaomi } from './components/icons/Xiaomi.vue';
+export { default as Xrp } from './components/icons/Xrp.vue';
+export { default as Youtube } from './components/icons/Youtube.vue';
+export { default as Zel } from './components/icons/Zel.vue';
+export { default as Zoom } from './components/icons/Zoom.vue';

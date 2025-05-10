@@ -38,58 +38,60 @@ npm install vue-iconsax
 
 ## Usage
 
-Global registration:
+### 1. Import all icons (not recommended for production)
 
-```jsx
-// main.js
-import { VsxIcon } from "vue-iconsax";
-const app = createApp(App);
-// Dynamic icon component - Use PascalCase for iconName prop
-app.component("VsxIcon", VsxIcon);
-app.mount("#app");
-```
+```js
+import * as Icons from 'vue-iconsax'
 
-```jsx
-// App.vue
-<template>
-  // Dynamic icon component - Use PascalCase for iconName prop
-  <VsxIcon :iconName="iconName" color="blue" size="50" type="linear" />
-</template>
-
-<script>
 export default {
-  props:['iconName']
-};
-</script>
+  components: {
+    ...Icons
+  }
+}
 ```
 
-Local registration:
+### 2. Import individual icons (recommended for production)
 
-```jsx
-<template>
-  // Dynamic icon component - Use PascalCase for iconName prop
-  <VsxIcon :iconName="iconName" color="blue" size="50" type="linear" />
-</template>
+```js
+import Apple from 'vue-iconsax/Apple'
+import Activity from 'vue-iconsax/Activity'
 
-<script>
-import { VsxIcon } from "vue-iconsax";
+export default {
+  components: {
+    Apple,
+    Activity
+  }
+}
+```
+
+### 3. Using the generic icon component
+
+```js
+import { VsxIcon } from 'vue-iconsax'
+
 export default {
   components: {
     VsxIcon
-  },
-  props:['iconName']
-};
-</script>
+  }
+}
+```
+
+Then in your template:
+
+```vue
+<template>
+  <VsxIcon name="Apple" />
+  <VsxIcon name="Login" color="red" :size="32" />
+</template>
 ```
 
 ## Props
 
-| Prop       | Type                                                | Default        | Note                                                               |
-| ---------- | --------------------------------------------------- | -------------- | ------------------------------------------------------------------ |
-| `color`    | `string`                                            | `currentColor` | css color                                                          |
-| `size`     | `number` `string`                                   | 24px           | size="24" or :size="24"                                            |
-| `type`     | `Linear` `Outline` `TwoTone` `Bulk` `Broken` `Bold` | `Linear`       | icons styles                                                       |
-| `iconName` | string                                              |                | iconName is only required with vsx-icon tag (Dynamic icon imports) |
+All icons accept the following props:
+
+- `size`: Number or String (default: 24)
+- `color`: String (default: 'currentColor')
+- `variant`: String - 'Linear', 'Outline', 'Broken', 'Bold', 'Bulk', 'TwoTone' (default: 'Linear')
 
 ## Contact
 
